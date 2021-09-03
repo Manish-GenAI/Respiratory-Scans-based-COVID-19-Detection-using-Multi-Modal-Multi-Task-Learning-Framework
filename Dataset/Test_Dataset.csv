@@ -1,0 +1,1286 @@
+,X-Ray Images,CT-Scans,Label
+0,person1608_virus_2786.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z053.png,1
+1,person1675_virus_2891.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z027.png,1
+2,person1612_virus_2797.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z028.png,1
+3,person287_virus_586.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z072.png,1
+4,person155_virus_307.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z073.png,1
+5,person152_virus_303.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z091.png,1
+6,person1661_virus_2873.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z030.png,1
+7,person17_virus_48.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z111.png,1
+8,person292_virus_599.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z049.png,1
+9,person1680_virus_2897.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z019.png,1
+10,person293_virus_605.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z040.png,1
+11,person1641_virus_2840.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z021.png,1
+12,person1659_virus_2867.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z080.png,1
+13,person1620_virus_2807.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z052.png,1
+14,person1551_virus_2692.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z043.png,1
+15,person1682_virus_2899.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z020.png,1
+16,person294_virus_606.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z069.png,1
+17,person298_virus_617.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z035.png,1
+18,person286_virus_585.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z096.png,1
+19,person293_virus_604.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z022.png,1
+20,person279_virus_576.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z055.png,1
+21,person1530_virus_2664.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z090.png,1
+22,person1588_virus_2762.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z047.png,1
+23,person1631_virus_2826.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z093.png,1
+24,person272_virus_559.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z058.png,1
+25,person276_virus_569.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z088.png,1
+26,person1568_virus_2723.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z102.png,1
+27,person294_virus_610.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z054.png,1
+28,person1599_virus_2776.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z024.png,1
+29,person255_virus_531.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z077.png,1
+30,person297_virus_614.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z065.png,1
+31,person266_virus_549.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z023.png,1
+32,person262_virus_544.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z029.png,1
+33,person1_virus_7.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z101.png,1
+34,person1664_virus_2877.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z075.png,1
+35,person278_virus_572.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z070.png,1
+36,person291_virus_596.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z107.png,1
+37,person1685_virus_2903.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z106.png,1
+38,person292_virus_602.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z041.png,1
+39,person162_virus_321.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z084.png,1
+40,person300_virus_621.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z092.png,1
+41,person1571_virus_2728.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z067.png,1
+42,person278_virus_573.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z063.png,1
+43,person1546_virus_2687.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z045.png,1
+44,person1528_virus_2662.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z109.png,1
+45,person1564_virus_2719.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z044.png,1
+46,person1589_virus_2763.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z108.png,1
+47,person1665_virus_2878.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z095.png,1
+48,person1576_virus_2734.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z110.png,1
+49,person1668_virus_2882.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z060.png,1
+50,person1539_virus_2678.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z056.png,1
+51,person1609_virus_2791.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z081.png,1
+52,person1616_virus_2802.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z076.png,1
+53,person1607_virus_2785.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z026.png,1
+54,person265_virus_548.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z039.png,1
+55,person268_virus_553.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z034.png,1
+56,person1657_virus_2864.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z097.png,1
+57,person269_virus_554.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z033.png,1
+58,person1673_virus_2889.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z079.png,1
+59,person263_virus_546.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z046.png,1
+60,person156_virus_308.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z087.png,1
+61,person1634_virus_2830.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z036.png,1
+62,person1632_virus_2827.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z083.png,1
+63,person1595_virus_2771.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z178.png,1
+64,person22_virus_54.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z203.png,1
+65,person1625_virus_2817.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z154.png,1
+66,person275_virus_565.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z167.png,1
+67,person1603_virus_2781.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z206.png,1
+68,person1655_virus_2861.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z193.png,1
+69,person1633_virus_2829.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z135.png,1
+70,person1662_virus_2875.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z140.png,1
+71,person1672_virus_2888.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z159.png,1
+72,person271_virus_556.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z199.png,1
+73,person270_virus_555.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z161.png,1
+74,person1542_virus_2683.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z147.png,1
+75,person278_virus_575.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z125.png,1
+76,person281_virus_578.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z130.png,1
+77,person1590_virus_2764.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z113.png,1
+78,person1567_virus_2722.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z129.png,1
+79,person1550_virus_2691.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z194.png,1
+80,person273_virus_561.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z165.png,1
+81,person1640_virus_2839.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z132.png,1
+82,person1604_virus_2782.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z191.png,1
+83,person292_virus_600.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z162.png,1
+84,person299_virus_620.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z138.png,1
+85,person1549_virus_2690.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z143.png,1
+86,person1653_virus_2858.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z182.png,1
+87,person1581_virus_2741.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z115.png,1
+88,person1628_virus_2821.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z120.png,1
+89,person1660_virus_2869.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z137.png,1
+90,person1628_virus_2822.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z131.png,1
+91,person1_virus_8.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z156.png,1
+92,person25_virus_59.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z189.png,1
+93,person1651_virus_2855.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z119.png,1
+94,person162_virus_320.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z169.png,1
+95,person1618_virus_2805.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z205.png,1
+96,person162_virus_322.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z121.png,1
+97,person1637_virus_2834.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z127.png,1
+98,person162_virus_319.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z202.png,1
+99,person295_virus_612.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z168.png,1
+100,person257_virus_538.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z164.png,1
+101,person20_virus_51.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z151.png,1
+102,person1592_virus_2766.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z198.png,1
+103,person1667_virus_2881.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z181.png,1
+104,person1669_virus_2885.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z145.png,1
+105,person1653_virus_2859.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z204.png,1
+106,person28_virus_63.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z175.png,1
+107,person18_virus_49.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z197.png,1
+108,person256_virus_537.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z192.png,1
+109,person1649_virus_2850.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z114.png,1
+110,person154_virus_305.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z179.png,1
+111,person1599_virus_2775.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z188.png,1
+112,person1541_virus_2681.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z116.png,1
+113,person1656_virus_2862.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z149.png,1
+114,person1623_virus_2813.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z112.png,1
+115,person1_virus_13.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z117.png,1
+116,person260_virus_541.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z118.png,1
+117,person1674_virus_2890.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z177.png,1
+118,person1670_virus_2886.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z146.png,1
+119,person24_virus_58.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z160.png,1
+120,person259_virus_540.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z195.png,1
+121,person1529_virus_2663.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z124.png,1
+122,person1650_virus_2854.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z150.png,1
+123,person264_virus_547.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z173.png,1
+124,person278_virus_574.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z176.png,1
+125,person296_virus_613.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z123.png,1
+126,person1644_virus_2844.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z139.png,1
+127,person1_virus_6.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z200.png,1
+128,person29_virus_64.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z158.png,1
+129,person1534_virus_2670.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z136.png,1
+130,person1554_virus_2696.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z186.png,1
+131,person1544_virus_2685.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z171.png,1
+132,person1643_virus_2843.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z152.png,1
+133,person22_virus_55.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z144.png,1
+134,person1627_virus_2819.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z170.png,1
+135,person1547_virus_2688.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z196.png,1
+136,person1610_virus_2793.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z201.png,1
+137,person1676_virus_2892.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z153.png,1
+138,person298_virus_618.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z187.png,1
+139,person21_virus_53.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z155.png,1
+140,person280_virus_577.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z183.png,1
+141,person158_virus_312.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z126.png,1
+142,person21_virus_52.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z157.png,1
+143,person1678_virus_2895.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z133.png,1
+144,person161_virus_317.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z148.png,1
+145,person1556_virus_2699.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z128.png,1
+146,person23_virus_56.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z180.png,1
+147,person154_virus_306.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z163.png,1
+148,person1626_virus_2818.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z190.png,1
+149,person1663_virus_2876.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z184.png,1
+150,person1613_virus_2799.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z134.png,1
+151,person267_virus_552.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z185.png,1
+152,person1602_virus_2780.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z172.png,1
+153,person1535_virus_2672.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z141.png,1
+154,person1543_virus_2684.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z142.png,1
+155,person282_virus_579.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z174.png,1
+156,person1635_virus_2831.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z122.png,1
+157,person1537_virus_2674.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z166.png,1
+158,person1591_virus_2765.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z233.png,1
+159,person262_virus_545.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z294.png,1
+160,person26_virus_60.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z222.png,1
+161,person1593_virus_2767.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z212.png,1
+162,person1531_virus_2666.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z216.png,1
+163,person273_virus_562.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z246.png,1
+164,person261_virus_543.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z248.png,1
+165,person1614_virus_2800.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z277.png,1
+166,person289_virus_593.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z273.png,1
+167,person1661_virus_2872.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z232.png,1
+168,person16_virus_47.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z250.png,1
+169,person28_virus_62.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z252.png,1
+170,person1594_virus_2768.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z210.png,1
+171,person1609_virus_2790.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z221.png,1
+172,person441_virus_896.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z247.png,1
+173,person445_virus_918.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z245.png,1
+174,person348_virus_723.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z208.png,1
+175,person348_virus_715.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z268.png,1
+176,person351_virus_726.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z238.png,1
+177,person445_virus_914.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z211.png,1
+178,person325_virus_660.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z274.png,1
+179,person445_virus_917.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z254.png,1
+180,person450_virus_931.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z219.png,1
+181,person421_virus_866.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z262.png,1
+182,person445_virus_916.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z209.png,1
+183,person409_virus_820.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z297.png,1
+184,person358_virus_737.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z226.png,1
+185,person348_virus_716.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z272.png,1
+186,person405_virus_805.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z225.png,1
+187,person372_virus_755.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z256.png,1
+188,person331_virus_684.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z259.png,1
+189,person410_virus_821.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z300.png,1
+190,person396_virus_789.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z288.png,1
+191,person439_virus_891.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z261.png,1
+192,person369_virus_750.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z292.png,1
+193,person310_virus_633.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z220.png,1
+194,person42_virus_89.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z293.png,1
+195,person355_virus_731.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z217.png,1
+196,person407_virus_811.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z228.png,1
+197,person342_virus_701.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z296.png,1
+198,person456_virus_943.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z251.png,1
+199,person445_virus_915.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z234.png,1
+200,person326_virus_672.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z280.png,1
+201,person34_virus_76.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z242.png,1
+202,person368_virus_748.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z269.png,1
+203,person417_virus_850.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z285.png,1
+204,person312_virus_635.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z227.png,1
+205,person422_virus_867.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z287.png,1
+206,person319_virus_645.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z231.png,1
+207,person325_virus_665.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z213.png,1
+208,person446_virus_920.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z218.png,1
+209,person453_virus_935.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z240.png,1
+210,person322_virus_655.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z258.png,1
+211,person326_virus_670.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z289.png,1
+212,person362_virus_741.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z249.png,1
+213,person326_virus_675.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z271.png,1
+214,person419_virus_861.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z241.png,1
+215,person370_virus_752.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z299.png,1
+216,person373_virus_756.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z223.png,1
+217,person389_virus_778.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z286.png,1
+218,person365_virus_745.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z291.png,1
+219,person441_virus_897.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z290.png,1
+220,person442_virus_904.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z244.png,1
+221,person383_virus_767.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z278.png,1
+222,person39_virus_85.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z255.png,1
+223,person349_virus_724.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z229.png,1
+224,person357_virus_736.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z275.png,1
+225,person359_virus_738.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z263.png,1
+226,person32_virus_71.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z215.png,1
+227,person442_virus_898.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z237.png,1
+228,person430_virus_879.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z267.png,1
+229,person338_virus_694.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z243.png,1
+230,person419_virus_855.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z224.png,1
+231,person346_virus_708.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z260.png,1
+232,person422_virus_868.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z214.png,1
+233,person36_virus_81.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z207.png,1
+234,person33_virus_72.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z266.png,1
+235,person442_virus_899.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z235.png,1
+236,person442_virus_906.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z284.png,1
+237,person442_virus_903.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z276.png,1
+238,person407_virus_814.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z239.png,1
+239,person309_virus_631.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z253.png,1
+240,person444_virus_911.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z270.png,1
+241,person402_virus_801.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z230.png,1
+242,person302_virus_623.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z281.png,1
+243,person445_virus_912.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z257.png,1
+244,person335_virus_690.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z279.png,1
+245,person394_virus_786.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z282.png,1
+246,person327_virus_679.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z298.png,1
+247,person38_virus_84.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z236.png,1
+248,person325_virus_661.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z265.png,1
+249,person371_virus_754.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z264.png,1
+250,person31_virus_70.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z283.png,1
+251,person409_virus_818.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z295.png,1
+252,person303_virus_624.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z302.png,1
+253,person399_virus_793.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z307.png,1
+254,person339_virus_695.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z390.png,1
+255,person414_virus_845.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z320.png,1
+256,person324_virus_658.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z301.png,1
+257,person360_virus_739.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z311.png,1
+258,person357_virus_734.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z316.png,1
+259,person435_virus_885.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z322.png,1
+260,person318_virus_644.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z323.png,1
+261,person311_virus_634.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z332.png,1
+262,person425_virus_871.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z385.png,1
+263,person357_virus_735.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z386.png,1
+264,person379_virus_762.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z337.png,1
+265,person343_virus_704.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z353.png,1
+266,person41_virus_88.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z376.png,1
+267,person374_virus_757.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z388.png,1
+268,person408_virus_815.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z356.png,1
+269,person361_virus_740.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z383.png,1
+270,person442_virus_905.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z334.png,1
+271,person459_virus_947.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z345.png,1
+272,person43_virus_92.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z331.png,1
+273,person426_virus_873.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z347.png,1
+274,person443_virus_908.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z308.png,1
+275,person38_virus_83.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z387.png,1
+276,person419_virus_859.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z350.png,1
+277,person439_virus_890.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z343.png,1
+278,person342_virus_702.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z391.png,1
+279,person384_virus_769.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z380.png,1
+280,person348_virus_720.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z344.png,1
+281,person3_virus_17.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z312.png,1
+282,person341_virus_699.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z351.png,1
+283,person330_virus_683.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z313.png,1
+284,person386_virus_771.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z304.png,1
+285,person40_virus_87.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z319.png,1
+286,person397_virus_790.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z369.png,1
+287,person440_virus_893.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z309.png,1
+288,person353_virus_728.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z326.png,1
+289,person447_virus_921_1.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z363.png,1
+290,person319_virus_646.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z310.png,1
+291,person409_virus_816.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z371.png,1
+292,person348_virus_717.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z338.png,1
+293,person457_virus_944.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z315.png,1
+294,person333_virus_688.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z392.png,1
+295,person375_virus_758.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z362.png,1
+296,person3_virus_16.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z325.png,1
+297,person454_virus_938.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z360.png,1
+298,person434_virus_884.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z389.png,1
+299,person436_virus_886.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z342.png,1
+300,person363_virus_742.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z370.png,1
+301,person370_virus_753.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z324.png,1
+302,person432_virus_881.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z314.png,1
+303,person316_virus_641.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z340.png,1
+304,person326_virus_677.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z328.png,1
+305,person325_virus_659.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z358.png,1
+306,person326_virus_673.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z368.png,1
+307,person442_virus_902.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z375.png,1
+308,person313_virus_637.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z359.png,1
+309,person395_virus_788.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z336.png,1
+310,person320_virus_647.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z327.png,1
+311,person400_virus_794.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z384.png,1
+312,person380_virus_763.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z364.png,1
+313,person441_virus_894.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z366.png,1
+314,person423_virus_869.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z333.png,1
+315,person344_virus_705.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z341.png,1
+316,person407_virus_812.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z373.png,1
+317,person415_virus_847.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z354.png,1
+318,person308_virus_630.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z317.png,1
+319,person35_virus_80.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z381.png,1
+320,person44_virus_94.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z393.png,1
+321,person445_virus_913.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z374.png,1
+322,person416_virus_849.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z382.png,1
+323,person325_virus_664.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z318.png,1
+324,person419_virus_857.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z348.png,1
+325,person355_virus_730.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z365.png,1
+326,person401_virus_795.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z305.png,1
+327,person433_virus_882.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z349.png,1
+328,person458_virus_945.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z321.png,1
+329,person401_virus_797.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z303.png,1
+330,person329_virus_682.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z330.png,1
+331,person388_virus_775.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z329.png,1
+332,person376_virus_759.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z377.png,1
+333,person403_virus_803.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z378.png,1
+334,person366_virus_746.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z355.png,1
+335,person332_virus_685.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z361.png,1
+336,person314_virus_639.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z346.png,1
+337,person321_virus_648.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z379.png,1
+338,person418_virus_852.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z306.png,1
+339,person413_virus_844.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z367.png,1
+340,person326_virus_668.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z372.png,1
+341,person385_virus_770.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z352.png,1
+342,person326_virus_666.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z357.png,1
+343,person346_virus_709.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z339.png,1
+344,person442_virus_901.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z335.png,1
+345,person431_virus_880.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z080.png,1
+346,person429_virus_877.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z004.png,1
+347,person348_virus_719.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z023.png,1
+348,person323_virus_656.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z085.png,1
+349,person387_virus_772.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z068.png,1
+350,person348_virus_721.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z109.png,1
+351,person306_virus_628.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z395.png,1
+352,person377_virus_760.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z090.png,1
+353,person364_virus_743.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z005.png,1
+354,person37_virus_82.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z079.png,1
+355,person304_virus_625.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z013.png,1
+356,person427_virus_875.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z078.png,1
+357,person442_virus_900.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z002.png,1
+358,person401_virus_798.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z021.png,1
+359,person367_virus_747.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z020.png,1
+360,person451_virus_932.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z049.png,1
+361,person445_virus_919.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z081.png,1
+362,person393_virus_784.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z045.png,1
+363,person30_virus_69.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z065.png,1
+364,person388_virus_777.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z040.png,1
+365,person438_virus_889.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z031.png,1
+366,person348_virus_711.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z039.png,1
+367,person350_virus_725.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z407.png,1
+368,person354_virus_729.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z076.png,1
+369,person328_virus_681.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z073.png,1
+370,person447_virus_921.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z059.png,1
+371,person309_virus_632.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z409.png,1
+372,person307_virus_629.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z403.png,1
+373,person428_virus_876.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z018.png,1
+374,person448_virus_922.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z032.png,1
+375,person402_virus_799.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z067.png,1
+376,person437_virus_888.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z012.png,1
+377,person356_virus_733.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z015.png,1
+378,person453_virus_936.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z398.png,1
+379,person317_virus_643.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z054.png,1
+380,person434_virus_883.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z100.png,1
+381,person391_virus_781.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z014.png,1
+382,person392_virus_782.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z043.png,1
+383,person334_virus_689.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z046.png,1
+384,person340_virus_698.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z022.png,1
+385,person3_virus_15.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z098.png,1
+386,person348_virus_714.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z095.png,1
+387,person441_virus_895.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z082.png,1
+388,person378_virus_761.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z024.png,1
+389,person305_virus_627.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z037.png,1
+390,person44_virus_93.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z092.png,1
+391,person659_virus_1243.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z026.png,1
+392,person628_virus_1206.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z052.png,1
+393,person460_virus_948.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z061.png,1
+394,person571_virus_1114.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z072.png,1
+395,person543_virus_1073.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z001.png,1
+396,person564_virus_1104.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z402.png,1
+397,person533_virus_1055.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z418.png,1
+398,person618_virus_1189.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z105.png,1
+399,person492_virus_998.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z108.png,1
+400,person671_virus_1260.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z038.png,1
+401,person508_virus_1020.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z064.png,1
+402,person647_virus_1229.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z083.png,1
+403,person489_virus_994.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z051.png,1
+404,person656_virus_1238.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z417.png,1
+405,person677_virus_1268.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z104.png,1
+406,person647_virus_1228.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z009.png,1
+407,person501_virus_1010.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z005.png,1
+408,person621_virus_1194.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z410.png,1
+409,person464_virus_954.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z025.png,1
+410,person646_virus_1227.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z405.png,1
+411,person562_virus_1102.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z097.png,1
+412,person54_virus_109.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z084.png,1
+413,person510_virus_1026.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z055.png,1
+414,person466_virus_960.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z412.png,1
+415,person633_virus_1213.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z414.png,1
+416,person640_virus_1221.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z404.png,1
+417,person664_virus_1249.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z069.png,1
+418,person483_virus_985.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z396.png,1
+419,person596_virus_1149.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z047.png,1
+420,person566_virus_1106.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z070.png,1
+421,person627_virus_1204.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z062.png,1
+422,person570_virus_1112.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z087.png,1
+423,person468_virus_963.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z071.png,1
+424,person625_virus_1199.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z017.png,1
+425,person478_virus_975.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z027.png,1
+426,person463_virus_953.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z063.png,1
+427,person575_virus_1119.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z074.png,1
+428,person586_virus_1130.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z028.png,1
+429,person495_virus_1001.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z089.png,1
+430,person588_virus_1134.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z006.png,1
+431,person531_virus_1053.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z401.png,1
+432,person67_virus_126.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z048.png,1
+433,person506_virus_1018.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z008.png,1
+434,person63_virus_121.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z007.png,1
+435,person537_virus_1067.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z057.png,1
+436,person544_virus_1079.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z058.png,1
+437,person609_virus_1176.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z096.png,1
+438,person622_virus_1196.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z006.png,1
+439,person516_virus_1033.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z093.png,1
+440,person486_virus_990.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z415.png,1
+441,person544_virus_1078.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z399.png,1
+442,person461_virus_950.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z102.png,1
+443,person665_virus_1250.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z035.png,1
+444,person579_virus_1123.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z033.png,1
+445,person463_virus_952.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z106.png,1
+446,person626_virus_1202.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z397.png,1
+447,person481_virus_983.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z103.png,1
+448,person551_virus_1091.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z019.png,1
+449,person661_virus_1245.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z050.png,1
+450,person604_virus_1165.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z010.png,1
+451,person64_virus_122.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z036.png,1
+452,person475_virus_972.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z056.png,1
+453,person61_virus_118.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z408.png,1
+454,person584_virus_1128.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z016.png,1
+455,person490_virus_996.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z107.png,1
+456,person624_virus_1198.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z088.png,1
+457,person581_virus_1125.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z044.png,1
+458,person542_virus_1072.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z413.png,1
+459,person615_virus_1184.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z002.png,1
+460,person519_virus_1038.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z011.png,1
+461,person46_virus_96.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z034.png,1
+462,person59_virus_116.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z001.png,1
+463,person465_virus_957.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z406.png,1
+464,person660_virus_1244.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z091.png,1
+465,person599_virus_1155.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z003.png,1
+466,person544_virus_1074.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z003.png,1
+467,person484_virus_986.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z077.png,1
+468,person549_virus_1089.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z004.png,1
+469,person594_virus_1145.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z099.png,1
+470,person540_virus_1070.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z416.png,1
+471,person583_virus_1127.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z394.png,1
+472,person535_virus_1062.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z066.png,1
+473,person480_virus_982.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z041.png,1
+474,person62_virus_119.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z400.png,1
+475,person612_virus_1179.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z060.png,1
+476,person559_virus_1099.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z110.png,1
+477,person512_virus_1029.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z029.png,1
+478,person670_virus_1259.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z075.png,1
+479,person520_virus_1039.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z086.png,1
+480,person632_virus_1211.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z042.png,1
+481,person472_virus_969.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z030.png,1
+482,person464_virus_956.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z101.png,1
+483,person514_virus_1031.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z053.png,1
+484,person597_virus_1150.jpeg,radiopaedia_org_covid-19-pneumonia-10_85902_3-dcm_z411.png,1
+485,person553_virus_1093.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z007.png,1
+486,person569_virus_1110.jpeg,radiopaedia_org_covid-19-pneumonia-14_85914_0-dcm_z094.png,1
+487,person509_virus_1024.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z013.png,1
+488,person502_virus_1011.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z066.png,1
+489,person522_virus_1041.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z001.png,1
+490,person639_virus_1220.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z043.png,1
+491,person521_virus_1040.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z023.png,1
+492,person517_virus_1035.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z012.png,1
+493,person573_virus_1116.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z041.png,1
+494,person50_virus_102.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z038.png,1
+495,person663_virus_1248.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z044.png,1
+496,person545_virus_1081.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z039.png,1
+497,person544_virus_1080.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z010.png,1
+498,person496_virus_1003.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z031.png,1
+499,person565_virus_1105.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z018.png,1
+500,person45_virus_95.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z016.png,1
+501,person650_virus_1232.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z025.png,1
+502,person66_virus_125.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z047.png,1
+503,person489_virus_995.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z057.png,1
+504,person652_virus_1234.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z002.png,1
+505,person550_virus_1090.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z038.png,1
+506,person649_virus_1231.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z065.png,1
+507,person593_virus_1142.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z022.png,1
+508,person607_virus_1173.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z062.png,1
+509,person592_virus_1141.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z009.png,1
+510,person590_virus_1138.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z023.png,1
+511,person608_virus_1175.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z019.png,1
+512,person530_virus_1052.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z009.png,1
+513,person509_virus_1025.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z028.png,1
+514,person563_virus_1103.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z040.png,1
+515,person53_virus_107.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z029.png,1
+516,person621_virus_1195.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z054.png,1
+517,person493_virus_999.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z049.png,1
+518,person567_virus_1107.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z016.png,1
+519,person662_virus_1246.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z009.png,1
+520,person488_virus_992.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z007.png,1
+521,person541_virus_1071.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z058.png,1
+522,person494_virus_1000.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z006.png,1
+523,person482_virus_984.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z005.png,1
+524,person515_virus_1032.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z034.png,1
+525,person511_virus_1027.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z020.png,1
+526,person557_virus_1097.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z052.png,1
+527,person616_virus_1186.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z004.png,1
+528,person641_virus_1222.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z032.png,1
+529,person527_virus_1048.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z021.png,1
+530,person539_virus_1069.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z008.png,1
+531,person467_virus_961.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z011.png,1
+532,person614_virus_1183.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z039.png,1
+533,person51_virus_105.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z014.png,1
+534,person499_virus_1008.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z034.png,1
+535,person578_virus_1122.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z020.png,1
+536,person648_virus_1230.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z003.png,1
+537,person55_virus_110.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z026.png,1
+538,person588_virus_1135.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z056.png,1
+539,person547_virus_1086.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z055.png,1
+540,person577_virus_1121.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z046.png,1
+541,person613_virus_1181.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z019.png,1
+542,person603_virus_1164.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z012.png,1
+543,person657_virus_1240.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z051.png,1
+544,person669_virus_1255.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z005.png,1
+545,person548_virus_1088.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z025.png,1
+546,person620_virus_1191.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z011.png,1
+547,person500_virus_1009.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z014.png,1
+548,person645_virus_1226.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z027.png,1
+549,person505_virus_1017.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z007.png,1
+550,person598_virus_1154.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z015.png,1
+551,person667_virus_1252.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z064.png,1
+552,person679_virus_1270.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z037.png,1
+553,person503_virus_1013.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z036.png,1
+554,person480_virus_981.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z013.png,1
+555,person528_virus_1049.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z032.png,1
+556,person617_virus_1187.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z035.png,1
+557,person598_virus_1153.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z001.png,1
+558,person497_virus_1005.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z050.png,1
+559,person574_virus_1118.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z003.png,1
+560,person672_virus_1261.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z006.png,1
+561,person469_virus_965.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z045.png,1
+562,person513_virus_1030.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z063.png,1
+563,person532_virus_1054.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z024.png,1
+564,person508_virus_1021.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z018.png,1
+565,person524_virus_1045.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z059.png,1
+566,person502_virus_1012.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z022.png,1
+567,person47_virus_99.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z017.png,1
+568,person534_virus_1061.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z037.png,1
+569,person558_virus_1098.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z048.png,1
+570,person485_virus_988.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z053.png,1
+571,person630_virus_1209.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z036.png,1
+572,person585_virus_1129.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z060.png,1
+573,person681_virus_1272.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z030.png,1
+574,person471_virus_967.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z029.png,1
+575,person536_virus_1065.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z041.png,1
+576,person53_virus_108.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z030.png,1
+577,person476_virus_973.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z010.png,1
+578,person48_virus_100.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z002.png,1
+579,person462_virus_951.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z028.png,1
+580,person461_virus_949.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z021.png,1
+581,person49_virus_101.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z026.png,1
+582,person60_virus_117.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z015.png,1
+583,person556_virus_1096.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z033.png,1
+584,person667_virus_1253.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z004.png,1
+585,person507_virus_1019.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z024.png,1
+586,person595_virus_1147.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z008.png,1
+587,person487_virus_991.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z027.png,1
+588,person498_virus_1007.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z033.png,1
+589,person610_virus_1177.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z042.png,1
+590,person470_virus_966.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z031.png,1
+591,person605_virus_1169.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z040.png,1
+592,person529_virus_1050.jpeg,radiopaedia_org_covid-19-pneumonia-29_86490_1-dcm_z017.png,1
+593,person666_virus_1251.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z042.png,1
+594,person474_virus_971.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z008.png,1
+595,person600_virus_1156.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z061.png,1
+596,person57_virus_113.jpeg,radiopaedia_org_covid-19-pneumonia-27_86410_0-dcm_z035.png,1
+597,person623_virus_1197.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z015.png,1
+598,person517_virus_1034.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z011.png,1
+599,person536_virus_1064.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z012.png,1
+600,person546_virus_1085.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z023.png,1
+601,person523_virus_1043.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z027.png,1
+602,person658_virus_1241.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z010.png,1
+603,person605_virus_1166.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z004.png,1
+604,person471_virus_968.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z007.png,1
+605,person538_virus_1068.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z001.png,1
+606,person629_virus_1207.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z014.png,1
+607,person637_virus_1218.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z041.png,1
+608,person620_virus_1192.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z013.png,1
+609,person670_virus_1256.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z034.png,1
+610,person544_virus_1076.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z028.png,1
+611,person479_virus_978.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z009.png,1
+612,person552_virus_1092.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z026.png,1
+613,person598_virus_1151.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z044.png,1
+614,person591_virus_1139.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z035.png,1
+615,person636_virus_1217.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z021.png,1
+616,person653_virus_1235.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z035.png,1
+617,person491_virus_997.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z023.png,1
+618,person56_virus_112.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z034.png,1
+619,person619_virus_1190.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z025.png,1
+620,person673_virus_1263.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z027.png,1
+621,person642_virus_1223.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z031.png,1
+622,person52_virus_106.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z012.png,1
+623,person518_virus_1036.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z032.png,1
+624,person644_virus_1225.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z022.png,1
+625,person663_virus_1247.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z043.png,1
+626,person576_virus_1120.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z033.png,1
+627,person544_virus_1075.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z016.png,1
+628,person65_virus_123.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z038.png,1
+629,person554_virus_1094.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z039.png,1
+630,person525_virus_1046.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z020.png,1
+631,person820_virus_1456.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z011.png,1
+632,person880_virus_1529.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z006.png,1
+633,person753_virus_1378.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z024.png,1
+634,person743_virus_1366.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z031.png,1
+635,person88_virus_161.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z029.png,1
+636,person954_virus_1626.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z016.png,1
+637,person921_virus_1578.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z045.png,1
+638,person721_virus_1340.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z023.png,1
+639,person790_virus_1421.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z025.png,1
+640,person841_virus_1481.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z030.png,1
+641,person74_virus_135.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z040.png,1
+642,person909_virus_1565.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z029.png,1
+643,person895_virus_1547.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z010.png,1
+644,person75_virus_136.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z036.png,1
+645,person928_virus_1586.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z042.png,1
+646,person789_virus_1420.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z003.png,1
+647,person868_virus_1513.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z022.png,1
+648,person746_virus_1369.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z012.png,1
+649,person795_virus_1427.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z033.png,1
+650,person775_virus_1404.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z009.png,1
+651,person703_virus_1300 (1).jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z037.png,1
+652,person724_virus_1344.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z020.png,1
+653,person860_virus_1505.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z037.png,1
+654,person926_virus_1583.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z001.png,1
+655,person837_virus_1475.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z036.png,1
+656,person830_virus_1466.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z030.png,1
+657,person803_virus_1436.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z013.png,1
+658,person710_virus_1308 (1).jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z008.png,1
+659,person704_virus_1301 (1).jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z014.png,1
+660,person862_virus_1507.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z040.png,1
+661,person918_virus_1575.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z005.png,1
+662,person951_virus_1622.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z029.png,1
+663,person878_virus_1526.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z026.png,1
+664,person732_virus_1353.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z017.png,1
+665,person931_virus_1592.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z018.png,1
+666,person761_virus_1389.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z019.png,1
+667,person89_virus_168.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z007.png,1
+668,person853_virus_1498.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z017.png,1
+669,person877_virus_1525.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z017.png,1
+670,person807_virus_1441.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z031.png,1
+671,person924_virus_1581.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z003.png,1
+672,person80_virus_150.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z019.png,1
+673,person905_virus_1561.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z035.png,1
+674,person813_virus_1449.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z028.png,1
+675,person705_virus_1302 (1).jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z013.png,1
+676,person8_virus_27.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z033.png,1
+677,person720_virus_1339.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z028.png,1
+678,person94_virus_176.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z038.png,1
+679,person942_virus_1611.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z006.png,1
+680,person69_virus_129.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z004.png,1
+681,person744_virus_1367.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z015.png,1
+682,person852_virus_1497.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z015.png,1
+683,person945_virus_1616.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z027.png,1
+684,person684_virus_1275.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z005.png,1
+685,person781_virus_1412.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z018.png,1
+686,person846_virus_1491.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z021.png,1
+687,person796_virus_1428.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z030.png,1
+688,person82_virus_155.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z032.png,1
+689,person900_virus_1554.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z041.png,1
+690,person83_virus_156.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z026.png,1
+691,person941_virus_1610.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z020.png,1
+692,person78_virus_140.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z008.png,1
+693,person711_virus_1309 (1).jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z016.png,1
+694,person935_virus_1597.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z042.png,1
+695,person791_virus_1422.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z025.png,1
+696,person806_virus_1440.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z021.png,1
+697,person723_virus_1342.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z010.png,1
+698,person896_virus_1548.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z011.png,1
+699,person772_virus_1401.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z002.png,1
+700,person707_virus_1305 (1).jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z034.png,1
+701,person741_virus_1364.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z014.png,1
+702,person712_virus_1310.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z024.png,1
+703,person783_virus_1414.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z002.png,1
+704,person747_virus_1372.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z039.png,1
+705,person932_virus_1593.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z022.png,1
+706,person722_virus_1341.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z018.png,1
+707,person915_virus_1572.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z024.png,1
+708,person763_virus_1391.jpeg,radiopaedia_org_covid-19-pneumonia-36_86526_0-dcm_z019.png,1
+709,person740_virus_1362.jpeg,radiopaedia_org_covid-19-pneumonia-29_86491_1-dcm_z032.png,1
+710,person760_virus_1388.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z001.png,1
+711,person88_virus_164.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z044.png,1
+712,person70_virus_130 (1).jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z029.png,1
+713,person90_virus_170.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z079.png,1
+714,person81_virus_153.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z061.png,1
+715,person8_virus_28.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z039.png,1
+716,person780_virus_1411.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z031.png,1
+717,person884_virus_1534.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z018.png,1
+718,person867_virus_1512.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z034.png,1
+719,person87_virus_160.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z022.png,1
+720,person701_virus_1297.jpeg,radiopaedia_org_covid-19-pneumonia-7_85703_0-dcm_z003.png,1
+721,person92_virus_174.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z067.png,1
+722,person907_virus_1563.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z026.png,1
+723,person742_virus_1365.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z069.png,1
+724,person765_virus_1393.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z047.png,1
+725,person836_virus_1473.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z055.png,1
+726,person730_virus_1351.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z091.png,1
+727,person871_virus_1517.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z037.png,1
+728,person823_virus_1459.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z058.png,1
+729,person88_virus_167.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z076.png,1
+730,person82_virus_154.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z045.png,1
+731,person810_virus_1445.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z090.png,1
+732,person727_virus_1347.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z043.png,1
+733,person773_virus_1402.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z036.png,1
+734,person718_virus_1316.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z036.png,1
+735,person906_virus_1562.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z015.png,1
+736,person77_virus_139.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z035.png,1
+737,person848_virus_1493.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z041.png,1
+738,person748_virus_1373.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z086.png,1
+739,person914_virus_1571.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z092.png,1
+740,person762_virus_1390.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z008.png,1
+741,person919_virus_1576.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z040.png,1
+742,person754_virus_1379.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z051.png,1
+743,person940_virus_1607.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z046.png,1
+744,person704_virus_1301.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z078.png,1
+745,person927_virus_1584.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z003.png,1
+746,person88_virus_166.jpeg,radiopaedia_org_covid-19-pneumonia-7_85703_0-dcm_z001.png,1
+747,person752_virus_1377.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z070.png,1
+748,person956_virus_1628.jpeg,radiopaedia_org_covid-19-pneumonia-7_85703_0-dcm_z002.png,1
+749,person71_virus_132.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z050.png,1
+750,person891_virus_1541.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z077.png,1
+751,person707_virus_1305.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z020.png,1
+752,person705_virus_1303 (1).jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z021.png,1
+753,person925_virus_1582.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z063.png,1
+754,person84_virus_157.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z048.png,1
+755,person88_virus_165.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z027.png,1
+756,person843_virus_1485.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z049.png,1
+757,person731_virus_1352.jpeg,radiopaedia_org_covid-19-pneumonia-40_86625_0-dcm_z088.png,1
+758,person755_virus_1382.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z010.png,1
+759,person881_virus_1531.jpeg,radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm_z012.png,1
+760,Non-COVID-19 (610).jpeg,Non-Covid (301).png,0
+761,Non-COVID-19 (504).jpeg,Non-Covid (338).png,0
+762,Non-COVID-19 (544).jpeg,Non-Covid (165).png,0
+763,Non-COVID-19 (58).jpg,Non-Covid (260).png,0
+764,Non-COVID-19 (622).jpg,Non-Covid (325).png,0
+765,Non-COVID-19 (558).jpg,Non-Covid (326).png,0
+766,Non-COVID-19 (516).jpeg,Non-Covid (382).png,0
+767,Non-COVID-19 (605).jpg,Non-Covid (232).png,0
+768,Non-COVID-19 (583).jpeg,Non-Covid (370).png,0
+769,Non-COVID-19 (564).jpg,Non-Covid (353).png,0
+770,Non-COVID-19 (524).jpeg,Non-Covid (347).png,0
+771,Non-COVID-19 (571).jpeg,Non-Covid (3).png,0
+772,Non-COVID-19 (499).jpeg,Non-Covid (192).png,0
+773,Non-COVID-19 (61).jpeg,Non-Covid (264).png,0
+774,Non-COVID-19 (626).jpeg,Non-Covid (240).png,0
+775,Non-COVID-19 (629).jpeg,Non-Covid (189).png,0
+776,Non-COVID-19 (570).jpg,Non-Covid (194).png,0
+777,Non-COVID-19 (592).jpg,Non-Covid (362).png,0
+778,Non-COVID-19 (596).jpg,Non-Covid (371).png,0
+779,Non-COVID-19 (584).jpeg,Non-Covid (37).png,0
+780,Non-COVID-19 (554).jpeg,Non-Covid (343).png,0
+781,Non-COVID-19 (511).jpeg,Non-Covid (311).png,0
+782,Non-COVID-19 (486).jpeg,Non-Covid (319).png,0
+783,Non-COVID-19 (60).jpeg,Non-Covid (335).png,0
+784,Non-COVID-19 (558).jpeg,Non-Covid (361).png,0
+785,Non-COVID-19 (574).jpg,Non-Covid (26).png,0
+786,Non-COVID-19 (56).jpeg,Non-Covid (202).png,0
+787,Non-COVID-19 (538).jpg,Non-Covid (20).png,0
+788,Non-COVID-19 (539).jpeg,Non-Covid (225).png,0
+789,Non-COVID-19 (537).jpg,Non-Covid (339).png,0
+790,Non-COVID-19 (551).jpg,Non-Covid (25).png,0
+791,Non-COVID-19 (605).jpeg,Non-Covid (284).png,0
+792,Non-COVID-19 (545).jpg,Non-Covid (381).png,0
+793,Non-COVID-19 (56).jpg,Non-Covid (266).png,0
+794,Non-COVID-19 (485).jpg,Non-Covid (322).png,0
+795,Non-COVID-19 (555).jpg,Non-Covid (206).png,0
+796,Non-COVID-19 (582).jpeg,Non-Covid (200).png,0
+797,Non-COVID-19 (565).jpg,Non-Covid (235).png,0
+798,Non-COVID-19 (547).jpg,Non-Covid (349).png,0
+799,Non-COVID-19 (609).jpeg,Non-Covid (280).png,0
+800,Non-COVID-19 (587).jpeg,Non-Covid (315).png,0
+801,Non-COVID-19 (529).jpeg,Non-Covid (27).png,0
+802,Non-COVID-19 (612).jpeg,Non-Covid (175).png,0
+803,Non-COVID-19 (577).jpeg,Non-Covid (257).png,0
+804,Non-COVID-19 (566).jpg,Non-Covid (282).png,0
+805,Non-COVID-19 (598).jpeg,Non-Covid (307).png,0
+806,Non-COVID-19 (600).jpeg,Non-Covid (252).png,0
+807,Non-COVID-19 (530).jpg,Non-Covid (227).png,0
+808,Non-COVID-19 (506).jpg,Non-Covid (295).png,0
+809,Non-COVID-19 (506).jpeg,Non-Covid (211).png,0
+810,Non-COVID-19 (536).jpg,Non-Covid (2).png,0
+811,Non-COVID-19 (493).jpg,Non-Covid (191).png,0
+812,Non-COVID-19 (553).jpeg,Non-Covid (318).png,0
+813,Non-COVID-19 (59).jpeg,Non-Covid (222).png,0
+814,Non-COVID-19 (519).jpeg,Non-Covid (187).png,0
+815,Non-COVID-19 (547).jpeg,Non-Covid (384).png,0
+816,Non-COVID-19 (614).jpg,Non-Covid (35).png,0
+817,Non-COVID-19 (616).jpeg,Non-Covid (290).png,0
+818,Non-COVID-19 (548).jpg,Non-Covid (258).png,0
+819,Non-COVID-19 (54).jpeg,Non-Covid (312).png,0
+820,Non-COVID-19 (59).jpg,Non-Covid (292).png,0
+821,Non-COVID-19 (51).jpg,Non-Covid (323).png,0
+822,Non-COVID-19 (484).jpeg,Non-Covid (368).png,0
+823,Non-COVID-19 (50).jpeg,Non-Covid (180).png,0
+824,Non-COVID-19 (494).jpeg,Non-Covid (359).png,0
+825,Non-COVID-19 (513).jpg,Non-Covid (164).png,0
+826,Non-COVID-19 (627).jpg,Non-Covid (34).png,0
+827,Non-COVID-19 (522).jpg,Non-Covid (342).png,0
+828,Non-COVID-19 (496).jpeg,Non-Covid (367).png,0
+829,Non-COVID-19 (578).jpg,Non-Covid (217).png,0
+830,Non-COVID-19 (607).jpeg,Non-Covid (309).png,0
+831,Non-COVID-19 (537).jpeg,Non-Covid (182).png,0
+832,Non-COVID-19 (567).jpg,Non-Covid (272).png,0
+833,Non-COVID-19 (505).jpeg,Non-Covid (23).png,0
+834,Non-COVID-19 (587).jpg,Non-Covid (321).png,0
+835,Non-COVID-19 (527).jpg,Non-Covid (293).png,0
+836,Non-COVID-19 (595).jpg,Non-Covid (299).png,0
+837,Non-COVID-19 (630).jpeg,Non-Covid (337).png,0
+838,Non-COVID-19 (543).jpeg,Non-Covid (17).png,0
+839,Non-COVID-19 (507).jpg,Non-Covid (365).png,0
+840,Non-COVID-19 (57).jpg,Non-Covid (29).png,0
+841,Non-COVID-19 (512).jpg,Non-Covid (287).png,0
+842,Non-COVID-19 (50).jpg,Non-Covid (246).png,0
+843,Non-COVID-19 (526).jpeg,Non-Covid (181).png,0
+844,Non-COVID-19 (595).jpeg,Non-Covid (294).png,0
+845,Non-COVID-19 (599).jpeg,Non-Covid (263).png,0
+846,Non-COVID-19 (586).jpeg,Non-Covid (355).png,0
+847,Non-COVID-19 (500).jpg,Non-Covid (239).png,0
+848,Non-COVID-19 (623).jpg,Non-Covid (166).png,0
+849,Non-COVID-19 (600).jpg,Non-Covid (205).png,0
+850,Non-COVID-19 (572).jpeg,Non-Covid (350).png,0
+851,Non-COVID-19 (618).jpeg,Non-Covid (21).png,0
+852,Non-COVID-19 (532).jpg,Non-Covid (236).png,0
+853,Non-COVID-19 (622).jpeg,Non-Covid (329).png,0
+854,Non-COVID-19 (492).jpg,Non-Covid (314).png,0
+855,Non-COVID-19 (564).jpeg,Non-Covid (247).png,0
+856,Non-COVID-19 (552).jpeg,Non-Covid (320).png,0
+857,Non-COVID-19 (61).jpg,Non-Covid (33).png,0
+858,Non-COVID-19 (551).jpeg,Non-Covid (386).png,0
+859,Non-COVID-19 (546).jpg,Non-Covid (383).png,0
+860,Non-COVID-19 (615).jpg,Non-Covid (218).png,0
+861,Non-COVID-19 (514).jpeg,Non-Covid (281).png,0
+862,Non-COVID-19 (601).jpg,Non-Covid (171).png,0
+863,Non-COVID-19 (496).jpg,Non-Covid (243).png,0
+864,Non-COVID-19 (52).jpeg,Non-Covid (360).png,0
+865,Non-COVID-19 (520).jpeg,Non-Covid (344).png,0
+866,Non-COVID-19 (491).jpg,Non-Covid (231).png,0
+867,Non-COVID-19 (560).jpeg,Non-Covid (348).png,0
+868,Non-COVID-19 (505).jpg,Non-Covid (188).png,0
+869,Non-COVID-19 (581).jpeg,Non-Covid (196).png,0
+870,Non-COVID-19 (540).jpg,Non-Covid (24).png,0
+871,Non-COVID-19 (566).jpeg,Non-Covid (36).png,0
+872,Non-COVID-19 (501).jpeg,Non-Covid (195).png,0
+873,Non-COVID-19 (5).jpg,Non-Covid (333).png,0
+874,Non-COVID-19 (62).jpeg,Non-Covid (306).png,0
+875,Non-COVID-19 (498).jpg,Non-Covid (308).png,0
+876,Non-COVID-19 (556).jpeg,Non-Covid (248).png,0
+877,Non-COVID-19 (563).jpg,Non-Covid (193).png,0
+878,Non-COVID-19 (606).jpg,Non-Covid (253).png,0
+879,Non-COVID-19 (582).jpg,Non-Covid (197).png,0
+880,Non-COVID-19 (490).jpg,Non-Covid (234).png,0
+881,Non-COVID-19 (511).jpg,Non-Covid (203).png,0
+882,Non-COVID-19 (534).jpeg,Non-Covid (274).png,0
+883,Non-COVID-19 (492).jpeg,Non-Covid (28).png,0
+884,Non-COVID-19 (583).jpg,Non-Covid (186).png,0
+885,Non-COVID-19 (515).jpeg,Non-Covid (261).png,0
+886,Non-COVID-19 (518).jpg,Non-Covid (254).png,0
+887,Non-COVID-19 (603).jpeg,Non-Covid (279).png,0
+888,Non-COVID-19 (53).jpg,Non-Covid (297).png,0
+889,Non-COVID-19 (543).jpg,Non-Covid (237).png,0
+890,Non-COVID-19 (613).jpeg,Non-Covid (271).png,0
+891,Non-COVID-19 (522).jpeg,Non-Covid (241).png,0
+892,Non-COVID-19 (614).jpeg,Non-Covid (277).png,0
+893,Non-COVID-19 (572).jpg,Non-Covid (238).png,0
+894,Non-COVID-19 (555).jpeg,Non-Covid (210).png,0
+895,Non-COVID-19 (550).jpeg,Non-Covid (327).png,0
+896,Non-COVID-19 (542).jpeg,Non-Covid (204).png,0
+897,Non-COVID-19 (598).jpg,Non-Covid (251).png,0
+898,Non-COVID-19 (588).jpg,Non-Covid (354).png,0
+899,Non-COVID-19 (485).jpeg,Non-Covid (209).png,0
+900,Non-COVID-19 (593).jpg,Non-Covid (366).png,0
+901,Non-COVID-19 (536).jpeg,Non-Covid (262).png,0
+902,Non-COVID-19 (624).jpeg,Non-Covid (303).png,0
+903,Non-COVID-19 (601).jpeg,Non-Covid (273).png,0
+904,Non-COVID-19 (525).jpeg,Non-Covid (32).png,0
+905,Non-COVID-19 (544).jpg,Non-Covid (300).png,0
+906,Non-COVID-19 (533).jpg,Non-Covid (334).png,0
+907,Non-COVID-19 (593).jpeg,Non-Covid (390).png,0
+908,Non-COVID-19 (574).jpeg,Non-Covid (324).png,0
+909,Non-COVID-19 (606).jpeg,Non-Covid (183).png,0
+910,Non-COVID-19 (568).jpg,Non-Covid (174).png,0
+911,Non-COVID-19 (581).jpg,Non-Covid (385).png,0
+912,Non-COVID-19 (562).jpeg,Non-Covid (316).png,0
+913,Non-COVID-19 (531).jpeg,Non-Covid (22).png,0
+914,Non-COVID-19 (604).jpg,Non-Covid (317).png,0
+915,Non-COVID-19 (510).jpg,Non-Covid (380).png,0
+916,Non-COVID-19 (521).jpg,Non-Covid (369).png,0
+917,Non-COVID-19 (579).jpeg,Non-Covid (177).png,0
+918,Non-COVID-19 (628).jpeg,Non-Covid (289).png,0
+919,Non-COVID-19 (592).jpeg,Non-Covid (336).png,0
+920,Non-COVID-19 (603).jpg,Non-Covid (270).png,0
+921,Non-COVID-19 (512).jpeg,Non-Covid (208).png,0
+922,Non-COVID-19 (617).jpg,Non-Covid (169).png,0
+923,Non-COVID-19 (524).jpg,Non-Covid (340).png,0
+924,Non-COVID-19 (580).jpeg,Non-Covid (268).png,0
+925,Non-COVID-19 (51).jpeg,Non-Covid (291).png,0
+926,Non-COVID-19 (487).jpg,Non-Covid (285).png,0
+927,Non-COVID-19 (567).jpeg,Non-Covid (190).png,0
+928,Non-COVID-19 (590).jpeg,Non-Covid (389).png,0
+929,Non-COVID-19 (484).jpg,Non-Covid (19).png,0
+930,Non-COVID-19 (621).jpeg,Non-Covid (242).png,0
+931,Non-COVID-19 (578).jpeg,Non-Covid (178).png,0
+932,Non-COVID-19 (52).jpg,Non-Covid (38).png,0
+933,Non-COVID-19 (618).jpg,Non-Covid (170).png,0
+934,Non-COVID-19 (57).jpeg,Non-Covid (212).png,0
+935,Non-COVID-19 (531).jpg,Non-Covid (249).png,0
+936,Non-COVID-19 (608).jpeg,Non-Covid (250).png,0
+937,Non-COVID-19 (541).jpg,Non-Covid (176).png,0
+938,Non-COVID-19 (624).jpg,Non-Covid (233).png,0
+939,Non-COVID-19 (621).jpg,Non-Covid (358).png,0
+940,Non-COVID-19 (590).jpg,Non-Covid (332).png,0
+941,Non-COVID-19 (604).jpeg,Non-Covid (267).png,0
+942,Non-COVID-19 (620).jpeg,Non-Covid (259).png,0
+943,Non-COVID-19 (489).jpg,Non-Covid (356).png,0
+944,Non-COVID-19 (561).jpg,Non-Covid (31).png,0
+945,Non-COVID-19 (617).jpeg,Non-Covid (185).png,0
+946,Non-COVID-19 (542).jpg,Non-Covid (283).png,0
+947,Non-COVID-19 (549).jpeg,Non-Covid (256).png,0
+948,Non-COVID-19 (562).jpg,Non-Covid (221).png,0
+949,Non-COVID-19 (502).jpeg,Non-Covid (286).png,0
+950,Non-COVID-19 (523).jpeg,Non-Covid (305).png,0
+951,Non-COVID-19 (549).jpg,Non-Covid (373).png,0
+952,Non-COVID-19 (63).jpeg,Non-Covid (363).png,0
+953,Non-COVID-19 (521).jpeg,Non-Covid (220).png,0
+954,Non-COVID-19 (569).jpg,Non-Covid (379).png,0
+955,Non-COVID-19 (538).jpeg,Non-Covid (352).png,0
+956,Non-COVID-19 (570).jpeg,Non-Covid (172).png,0
+957,Non-COVID-19 (585).jpeg,Non-Covid (296).png,0
+958,Non-COVID-19 (594).jpeg,Non-Covid (173).png,0
+959,Non-COVID-19 (497).jpeg,Non-Covid (387).png,0
+960,Non-COVID-19 (498).jpeg,Non-Covid (207).png,0
+961,Non-COVID-19 (620).jpg,Non-Covid (201).png,0
+962,Non-COVID-19 (552).jpg,Non-Covid (378).png,0
+963,Non-COVID-19 (628).jpg,Non-Covid (214).png,0
+964,Non-COVID-19 (494).jpg,Non-Covid (310).png,0
+965,Non-COVID-19 (508).jpeg,Non-Covid (30).png,0
+966,Non-COVID-19 (523).jpg,Non-Covid (341).png,0
+967,Non-COVID-19 (560).jpg,Non-Covid (275).png,0
+968,Non-COVID-19 (532).jpeg,Non-Covid (244).png,0
+969,Non-COVID-19 (616).jpg,Non-Covid (304).png,0
+970,Non-COVID-19 (626).jpg,Non-Covid (168).png,0
+971,Non-COVID-19 (557).jpeg,Non-Covid (376).png,0
+972,Non-COVID-19 (518).jpeg,Non-Covid (328).png,0
+973,Non-COVID-19 (63).jpg,Non-Covid (269).png,0
+974,Non-COVID-19 (6).jpg,Non-Covid (302).png,0
+975,Non-COVID-19 (525).jpg,Non-Covid (346).png,0
+976,Non-COVID-19 (528).jpg,Non-Covid (377).png,0
+977,Non-COVID-19 (591).jpeg,Non-Covid (226).png,0
+978,Non-COVID-19 (559).jpeg,Non-Covid (313).png,0
+979,Non-COVID-19 (545).jpeg,Non-Covid (219).png,0
+980,Non-COVID-19 (55).jpeg,Non-Covid (265).png,0
+981,Non-COVID-19 (623).jpeg,Non-Covid (230).png,0
+982,Non-COVID-19 (500).jpeg,Non-Covid (364).png,0
+983,Non-COVID-19 (504).jpg,Non-Covid (198).png,0
+984,Non-COVID-19 (591).jpg,Non-Covid (357).png,0
+985,Non-COVID-19 (575).jpeg,Non-Covid (351).png,0
+986,Non-COVID-19 (611).jpeg,Non-Covid (278).png,0
+987,Non-COVID-19 (619).jpg,Non-Covid (374).png,0
+988,Non-COVID-19 (509).jpg,Non-Covid (517).png,0
+989,Non-COVID-19 (493).jpeg,Non-Covid (548).png,0
+990,Non-COVID-19 (561).jpeg,Non-Covid (41).png,0
+991,Non-COVID-19 (563).jpeg,Non-Covid (54).png,0
+992,Non-COVID-19 (507).jpeg,Non-Covid (532).png,0
+993,Non-COVID-19 (516).jpg,Non-Covid (533).png,0
+994,Non-COVID-19 (619).jpeg,Non-Covid (50).png,0
+995,Non-COVID-19 (6).jpeg,Non-Covid (391).png,0
+996,Non-COVID-19 (527).jpeg,Non-Covid (410).png,0
+997,Non-COVID-19 (596).jpeg,Non-Covid (580).png,0
+998,Non-COVID-19 (597).jpg,Non-Covid (502).png,0
+999,Non-COVID-19 (573).jpg,Non-Covid (510).png,0
+1000,Non-COVID-19 (585).jpg,Non-Covid (520).png,0
+1001,Non-COVID-19 (546).jpeg,Non-Covid (477).png,0
+1002,Non-COVID-19 (602).jpeg,Non-Covid (468).png,0
+1003,Non-COVID-19 (625).jpeg,Non-Covid (545).png,0
+1004,Non-COVID-19 (58).jpeg,Non-Covid (5).png,0
+1005,Non-COVID-19 (495).jpeg,Non-Covid (498).png,0
+1006,Non-COVID-19 (53).jpeg,Non-Covid (511).png,0
+1007,Non-COVID-19 (517).jpeg,Non-Covid (582).png,0
+1008,Non-COVID-19 (487).jpeg,Non-Covid (400).png,0
+1009,Non-COVID-19 (539).jpg,Non-Covid (399).png,0
+1010,Non-COVID-19 (594).jpg,Non-Covid (461).png,0
+1011,Non-COVID-19 (573).jpeg,Non-Covid (480).png,0
+1012,Non-COVID-19 (49).jpeg,Non-Covid (504).png,0
+1013,Non-COVID-19 (608).jpg,Non-Covid (486).png,0
+1014,Non-COVID-19 (554).jpg,Non-Covid (412).png,0
+1015,Non-COVID-19 (800).jpeg,Non-Covid (40).png,0
+1016,Non-COVID-19 (735).jpeg,Non-Covid (519).png,0
+1017,Non-COVID-19 (725).jpeg,Non-Covid (58).png,0
+1018,Non-COVID-19 (813).jpeg,Non-Covid (524).png,0
+1019,Non-COVID-19 (740).jpeg,Non-Covid (482).png,0
+1020,Non-COVID-19 (818).jpeg,Non-Covid (423).png,0
+1021,Non-COVID-19 (794).jpg,Non-Covid (407).png,0
+1022,Non-COVID-19 (64).jpeg,Non-Covid (451).png,0
+1023,Non-COVID-19 (695).jpg,Non-Covid (448).png,0
+1024,Non-COVID-19 (797).jpeg,Non-Covid (475).png,0
+1025,Non-COVID-19 (686).jpg,Non-Covid (513).png,0
+1026,Non-COVID-19 (766).jpg,Non-Covid (394).png,0
+1027,Non-COVID-19 (789).jpeg,Non-Covid (465).png,0
+1028,Non-COVID-19 (801).jpg,Non-Covid (490).png,0
+1029,Non-COVID-19 (819).jpg,Non-Covid (505).png,0
+1030,Non-COVID-19 (784).jpeg,Non-Covid (406).png,0
+1031,Non-COVID-19 (724).jpeg,Non-Covid (581).png,0
+1032,Non-COVID-19 (665).jpeg,Non-Covid (564).png,0
+1033,Non-COVID-19 (657).jpeg,Non-Covid (408).png,0
+1034,Non-COVID-19 (691).jpg,Non-Covid (46).png,0
+1035,Non-COVID-19 (648).jpeg,Non-Covid (496).png,0
+1036,Non-COVID-19 (742).jpg,Non-Covid (409).png,0
+1037,Non-COVID-19 (752).jpeg,Non-Covid (445).png,0
+1038,Non-COVID-19 (710).jpeg,Non-Covid (436).png,0
+1039,Non-COVID-19 (640).jpeg,Non-Covid (47).png,0
+1040,Non-COVID-19 (807).jpeg,Non-Covid (464).png,0
+1041,Non-COVID-19 (635).jpg,Non-Covid (56).png,0
+1042,Non-COVID-19 (692).jpeg,Non-Covid (457).png,0
+1043,Non-COVID-19 (650).jpg,Non-Covid (583).png,0
+1044,Non-COVID-19 (667).jpeg,Non-Covid (570).png,0
+1045,Non-COVID-19 (776).jpeg,Non-Covid (427).png,0
+1046,Non-COVID-19 (687).jpeg,Non-Covid (55).png,0
+1047,Non-COVID-19 (665).jpg,Non-Covid (550).png,0
+1048,Non-COVID-19 (793).jpg,Non-Covid (454).png,0
+1049,Non-COVID-19 (774).jpeg,Non-Covid (560).png,0
+1050,Non-COVID-19 (77).jpg,Non-Covid (563).png,0
+1051,Non-COVID-19 (679).jpeg,Non-Covid (521).png,0
+1052,Non-COVID-19 (79).jpeg,Non-Covid (547).png,0
+1053,Non-COVID-19 (636).jpeg,Non-Covid (456).png,0
+1054,Non-COVID-19 (771).jpeg,Non-Covid (484).png,0
+1055,Non-COVID-19 (736).jpeg,Non-Covid (565).png,0
+1056,Non-COVID-19 (642).jpeg,Non-Covid (527).png,0
+1057,Non-COVID-19 (75).jpeg,Non-Covid (42).png,0
+1058,Non-COVID-19 (702).jpg,Non-Covid (584).png,0
+1059,Non-COVID-19 (639).jpeg,Non-Covid (51).png,0
+1060,Non-COVID-19 (664).jpeg,Non-Covid (528).png,0
+1061,Non-COVID-19 (67).jpeg,Non-Covid (573).png,0
+1062,Non-COVID-19 (668).jpg,Non-Covid (415).png,0
+1063,Non-COVID-19 (654).jpg,Non-Covid (447).png,0
+1064,Non-COVID-19 (781).jpg,Non-Covid (414).png,0
+1065,Non-COVID-19 (737).jpeg,Non-Covid (512).png,0
+1066,Non-COVID-19 (633).jpeg,Non-Covid (529).png,0
+1067,Non-COVID-19 (707).jpeg,Non-Covid (438).png,0
+1068,Non-COVID-19 (690).jpg,Non-Covid (552).png,0
+1069,Non-COVID-19 (662).jpg,Non-Covid (434).png,0
+1070,Non-COVID-19 (728).jpg,Non-Covid (578).png,0
+1071,Non-COVID-19 (741).jpeg,Non-Covid (514).png,0
+1072,Non-COVID-19 (747).jpg,Non-Covid (526).png,0
+1073,Non-COVID-19 (753).jpeg,Non-Covid (531).png,0
+1074,Non-COVID-19 (73).jpeg,Non-Covid (404).png,0
+1075,Non-COVID-19 (719).jpeg,Non-Covid (522).png,0
+1076,Non-COVID-19 (708).jpg,Non-Covid (540).png,0
+1077,Non-COVID-19 (690).jpeg,Non-Covid (534).png,0
+1078,Non-COVID-19 (663).jpeg,Non-Covid (586).png,0
+1079,Non-COVID-19 (714).jpeg,Non-Covid (574).png,0
+1080,Non-COVID-19 (798).jpeg,Non-Covid (561).png,0
+1081,Non-COVID-19 (814).jpg,Non-Covid (403).png,0
+1082,Non-COVID-19 (675).jpg,Non-Covid (417).png,0
+1083,Non-COVID-19 (796).jpg,Non-Covid (453).png,0
+1084,Non-COVID-19 (632).jpg,Non-Covid (411).png,0
+1085,Non-COVID-19 (700).jpg,Non-Covid (509).png,0
+1086,Non-COVID-19 (699).jpg,Non-Covid (420).png,0
+1087,Non-COVID-19 (716).jpeg,Non-Covid (473).png,0
+1088,Non-COVID-19 (683).jpg,Non-Covid (466).png,0
+1089,Non-COVID-19 (785).jpeg,Non-Covid (429).png,0
+1090,Non-COVID-19 (676).jpg,Non-Covid (470).png,0
+1091,Non-COVID-19 (741).jpg,Non-Covid (558).png,0
+1092,Non-COVID-19 (778).jpeg,Non-Covid (487).png,0
+1093,Non-COVID-19 (75).jpg,Non-Covid (428).png,0
+1094,Non-COVID-19 (759).jpg,Non-Covid (44).png,0
+1095,Non-COVID-19 (723).jpg,Non-Covid (587).png,0
+1096,Non-COVID-19 (747).jpeg,Non-Covid (499).png,0
+1097,Non-COVID-19 (76).jpg,Non-Covid (48).png,0
+1098,Non-COVID-19 (806).jpeg,Non-Covid (401).png,0
+1099,Non-COVID-19 (717).jpeg,Non-Covid (463).png,0
+1100,Non-COVID-19 (673).jpg,Non-Covid (575).png,0
+1101,Non-COVID-19 (792).jpeg,Non-Covid (557).png,0
+1102,Non-COVID-19 (650).jpeg,Non-Covid (485).png,0
+1103,Non-COVID-19 (790).jpeg,Non-Covid (421).png,0
+1104,Non-COVID-19 (706).jpeg,Non-Covid (506).png,0
+1105,Non-COVID-19 (699).jpeg,Non-Covid (537).png,0
+1106,Non-COVID-19 (644).jpeg,Non-Covid (433).png,0
+1107,Non-COVID-19 (775).jpg,Non-Covid (492).png,0
+1108,Non-COVID-19 (748).jpeg,Non-Covid (541).png,0
+1109,Non-COVID-19 (763).jpeg,Non-Covid (413).png,0
+1110,Non-COVID-19 (713).jpeg,Non-Covid (452).png,0
+1111,Non-COVID-19 (651).jpeg,Non-Covid (530).png,0
+1112,Non-COVID-19 (757).jpeg,Non-Covid (49).png,0
+1113,Non-COVID-19 (670).jpeg,Non-Covid (449).png,0
+1114,Non-COVID-19 (680).jpg,Non-Covid (501).png,0
+1115,Non-COVID-19 (812).jpg,Non-Covid (45).png,0
+1116,Non-COVID-19 (669).jpg,Non-Covid (460).png,0
+1117,Non-COVID-19 (80).jpeg,Non-Covid (523).png,0
+1118,Non-COVID-19 (666).jpeg,Non-Covid (535).png,0
+1119,Non-COVID-19 (764).jpg,Non-Covid (494).png,0
+1120,Non-COVID-19 (656).jpg,Non-Covid (572).png,0
+1121,Non-COVID-19 (761).jpeg,Non-Covid (549).png,0
+1122,Non-COVID-19 (801).jpeg,Non-Covid (471).png,0
+1123,Non-COVID-19 (721).jpg,Non-Covid (559).png,0
+1124,Non-COVID-19 (711).jpg,Non-Covid (476).png,0
+1125,Non-COVID-19 (80).jpg,Non-Covid (516).png,0
+1126,Non-COVID-19 (767).jpg,Non-Covid (569).png,0
+1127,Non-COVID-19 (766).jpeg,Non-Covid (489).png,0
+1128,Non-COVID-19 (631).jpg,Non-Covid (444).png,0
+1129,Non-COVID-19 (803).jpg,Non-Covid (442).png,0
+1130,Non-COVID-19 (743).jpeg,Non-Covid (392).png,0
+1131,Non-COVID-19 (817).jpg,Non-Covid (437).png,0
+1132,Non-COVID-19 (768).jpeg,Non-Covid (551).png,0
+1133,Non-COVID-19 (734).jpeg,Non-Covid (585).png,0
+1134,Non-COVID-19 (758).jpg,Non-Covid (424).png,0
+1135,Non-COVID-19 (814).jpeg,Non-Covid (546).png,0
+1136,Non-COVID-19 (642).jpg,Non-Covid (439).png,0
+1137,Non-COVID-19 (8).jpg,Non-Covid (481).png,0
+1138,Non-COVID-19 (694).jpeg,Non-Covid (396).png,0
+1139,Non-COVID-19 (793).jpeg,Non-Covid (479).png,0
+1140,Non-COVID-19 (65).jpg,Non-Covid (419).png,0
+1141,Non-COVID-19 (720).jpeg,Non-Covid (402).png,0
+1142,Non-COVID-19 (794).jpeg,Non-Covid (478).png,0
+1143,Non-COVID-19 (640).jpg,Non-Covid (440).png,0
+1144,Non-COVID-19 (676).jpeg,Non-Covid (462).png,0
+1145,Non-COVID-19 (77).jpeg,Non-Covid (395).png,0
+1146,Non-COVID-19 (770).jpeg,Non-Covid (469).png,0
+1147,Non-COVID-19 (802).jpg,Non-Covid (515).png,0
+1148,Non-COVID-19 (674).jpg,Non-Covid (542).png,0
+1149,Non-COVID-19 (677).jpg,Non-Covid (554).png,0
+1150,Non-COVID-19 (645).jpeg,Non-Covid (508).png,0
+1151,Non-COVID-19 (815).jpeg,Non-Covid (497).png,0
+1152,Non-COVID-19 (78).jpg,Non-Covid (393).png,0
+1153,Non-COVID-19 (632).jpeg,Non-Covid (577).png,0
+1154,Non-COVID-19 (780).jpeg,Non-Covid (525).png,0
+1155,Non-COVID-19 (777).jpeg,Non-Covid (571).png,0
+1156,Non-COVID-19 (716).jpg,Non-Covid (57).png,0
+1157,Non-COVID-19 (81).jpeg,Non-Covid (43).png,0
+1158,Non-COVID-19 (769).jpeg,Non-Covid (507).png,0
+1159,Non-COVID-19 (670).jpg,Non-Covid (52).png,0
+1160,Non-COVID-19 (759).jpeg,Non-Covid (458).png,0
+1161,Non-COVID-19 (811).jpeg,Non-Covid (431).png,0
+1162,Non-COVID-19 (678).jpeg,Non-Covid (553).png,0
+1163,Non-COVID-19 (634).jpg,Non-Covid (441).png,0
+1164,Non-COVID-19 (637).jpg,Non-Covid (579).png,0
+1165,Non-COVID-19 (81).jpg,Non-Covid (495).png,0
+1166,Non-COVID-19 (74).jpg,Non-Covid (398).png,0
+1167,Non-COVID-19 (806).jpg,Non-Covid (543).png,0
+1168,Non-COVID-19 (685).jpeg,Non-Covid (455).png,0
+1169,Non-COVID-19 (701).jpeg,Non-Covid (443).png,0
+1170,Non-COVID-19 (779).jpeg,Non-Covid (566).png,0
+1171,Non-COVID-19 (742).jpeg,Non-Covid (493).png,0
+1172,Non-COVID-19 (697).jpeg,Non-Covid (576).png,0
+1173,Non-COVID-19 (671).jpg,Non-Covid (435).png,0
+1174,Non-COVID-19 (721).jpeg,Non-Covid (450).png,0
+1175,Non-COVID-19 (751).jpeg,Non-Covid (556).png,0
+1176,Non-COVID-19 (71).jpeg,Non-Covid (432).png,0
+1177,Non-COVID-19 (693).jpg,Non-Covid (568).png,0
+1178,Non-COVID-19 (641).jpeg,Non-Covid (430).png,0
+1179,Non-COVID-19 (74).jpeg,Non-Covid (53).png,0
+1180,Non-COVID-19 (765).jpg,Non-Covid (422).png,0
+1181,Non-COVID-19 (701).jpg,Non-Covid (539).png,0
+1182,Non-COVID-19 (760).jpeg,Non-Covid (491).png,0
+1183,Non-COVID-19 (732).jpg,Non-Covid (567).png,0
+1184,Non-COVID-19 (782).jpeg,Non-Covid (472).png,0
+1185,Non-COVID-19 (675).jpeg,Non-Covid (500).png,0
+1186,Non-COVID-19 (752).jpg,Non-Covid (474).png,0
+1187,Non-COVID-19 (633).jpg,Non-Covid (416).png,0
+1188,Non-COVID-19 (770).jpg,Non-Covid (405).png,0
+1189,Non-COVID-19 (738).jpeg,Non-Covid (503).png,0
+1190,Non-COVID-19 (718).jpeg,Non-Covid (544).png,0
+1191,Non-COVID-19 (698).jpeg,Non-Covid (555).png,0
+1192,Non-COVID-19 (692).jpg,Non-Covid (467).png,0
+1193,Non-COVID-19 (659).jpeg,Non-Covid (536).png,0
+1194,Non-COVID-19 (724).jpg,Non-Covid (483).png,0
+1195,Non-COVID-19 (696).jpg,Non-Covid (518).png,0
+1196,Non-COVID-19 (659).jpg,Non-Covid (426).png,0
+1197,Non-COVID-19 (784).jpg,Non-Covid (538).png,0
+1198,Non-COVID-19 (761).jpg,Non-Covid (459).png,0
+1199,Non-COVID-19 (782).jpg,Non-Covid (397).png,0
+1200,Non-COVID-19 (722).jpg,Non-Covid (446).png,0
+1201,Non-COVID-19 (799).jpg,Non-Covid (425).png,0
+1202,Non-COVID-19 (756).jpeg,Non-Covid (562).png,0
+1203,Non-COVID-19 (638).jpg,Non-Covid (418).png,0
+1204,Non-COVID-19 (798).jpg,Non-Covid (4).png,0
+1205,Non-COVID-19 (810).jpeg,Non-Covid (488).png,0
+1206,Non-COVID-19 (764).jpeg,Non-Covid (602).png,0
+1207,Non-COVID-19 (722).jpeg,Non-Covid (690).png,0
+1208,Non-COVID-19 (674).jpeg,Non-Covid (588).png,0
+1209,Non-COVID-19 (760).jpg,Non-Covid (625).png,0
+1210,Non-COVID-19 (731).jpeg,Non-Covid (688).png,0
+1211,Non-COVID-19 (684).jpeg,Non-Covid (694).png,0
+1212,Non-COVID-19 (745).jpg,Non-Covid (769).png,0
+1213,Non-COVID-19 (649).jpeg,Non-Covid (754).png,0
+1214,Non-COVID-19 (630).jpg,Non-Covid (613).png,0
+1215,Non-COVID-19 (653).jpg,Non-Covid (770).png,0
+1216,Non-COVID-19 (691).jpeg,Non-Covid (680).png,0
+1217,Non-COVID-19 (647).jpeg,Non-Covid (780).png,0
+1218,Non-COVID-19 (653).jpeg,Non-Covid (659).png,0
+1219,Non-COVID-19 (681).jpg,Non-Covid (618).png,0
+1220,Non-COVID-19 (704).jpeg,Non-Covid (756).png,0
+1221,Non-COVID-19 (682).jpeg,Non-Covid (785).png,0
+1222,Non-COVID-19 (816).jpeg,Non-Covid (732).png,0
+1223,Non-COVID-19 (795).jpg,Non-Covid (743).png,0
+1224,Non-COVID-19 (710).jpg,Non-Covid (745).png,0
+1225,Non-COVID-19 (740).jpg,Non-Covid (603).png,0
+1226,Non-COVID-19 (730).jpeg,Non-Covid (778).png,0
+1227,Non-COVID-19 (755).jpeg,Non-Covid (635).png,0
+1228,Non-COVID-19 (688).jpg,Non-Covid (699).png,0
+1229,Non-COVID-19 (732).jpeg,Non-Covid (631).png,0
+1230,Non-COVID-19 (707).jpg,Non-Covid (74).png,0
+1231,Non-COVID-19 (706).jpg,Non-Covid (648).png,0
+1232,Non-COVID-19 (734).jpg,Non-Covid (750).png,0
+1233,Non-COVID-19 (651).jpg,Non-Covid (634).png,0
+1234,Non-COVID-19 (700).jpeg,Non-Covid (645).png,0
+1235,Non-COVID-19 (705).jpg,Non-Covid (685).png,0
+1236,Non-COVID-19 (636).jpg,Non-Covid (639).png,0
+1237,Non-COVID-19 (768).jpg,Non-Covid (735).png,0
+1238,Non-COVID-19 (791).jpeg,Non-Covid (633).png,0
+1239,Non-COVID-19 (72).jpeg,Non-Covid (589).png,0
+1240,Non-COVID-19 (746).jpg,Non-Covid (64).png,0
+1241,Non-COVID-19 (709).jpeg,Non-Covid (752).png,0
+1242,Non-COVID-19 (816).jpg,Non-Covid (709).png,0
+1243,Non-COVID-19 (750).jpeg,Non-Covid (6).png,0
+1244,Non-COVID-19 (696).jpeg,Non-Covid (641).png,0
+1245,Non-COVID-19 (780).jpg,Non-Covid (73).png,0
+1246,Non-COVID-19 (647).jpg,Non-Covid (615).png,0
+1247,Non-COVID-19 (786).jpeg,Non-Covid (660).png,0
+1248,Non-COVID-19 (677).jpeg,Non-Covid (677).png,0
+1249,Non-COVID-19 (656).jpeg,Non-Covid (662).png,0
+1250,Non-COVID-19 (727).jpg,Non-Covid (668).png,0
+1251,Non-COVID-19 (683).jpeg,Non-Covid (593).png,0
+1252,Non-COVID-19 (708).jpeg,Non-Covid (708).png,0
+1253,Non-COVID-19 (819).jpeg,Non-Covid (67).png,0
+1254,Non-COVID-19 (669).jpeg,Non-Covid (719).png,0
+1255,Non-COVID-19 (744).jpeg,Non-Covid (734).png,0
+1256,Non-COVID-19 (69).jpeg,Non-Covid (666).png,0
+1257,Non-COVID-19 (657).jpg,Non-Covid (623).png,0
+1258,Non-COVID-19 (728).jpeg,Non-Covid (792).png,0
+1259,Non-COVID-19 (635).jpeg,Non-Covid (742).png,0
+1260,Non-COVID-19 (652).jpg,Non-Covid (604).png,0
+1261,Non-COVID-19 (730).jpg,Non-Covid (665).png,0
+1262,Non-COVID-19 (698).jpg,Non-Covid (717).png,0
+1263,Non-COVID-19 (646).jpeg,Non-Covid (610).png,0
+1264,Non-COVID-19 (749).jpeg,Non-Covid (720).png,0
+1265,Non-COVID-19 (79).jpg,Non-Covid (733).png,0
+1266,Non-COVID-19 (637).jpeg,Non-Covid (748).png,0
+1267,Non-COVID-19 (804).jpeg,Non-Covid (723).png,0
+1268,Non-COVID-19 (812).jpeg,Non-Covid (661).png,0
+1269,Non-COVID-19 (686).jpeg,Non-Covid (599).png,0
+1270,Non-COVID-19 (758).jpeg,Non-Covid (676).png,0
+1271,Non-COVID-19 (64).jpg,Non-Covid (643).png,0
+1272,Non-COVID-19 (788).jpg,Non-Covid (655).png,0
+1273,Non-COVID-19 (658).jpg,Non-Covid (619).png,0
+1274,Non-COVID-19 (655).jpeg,Non-Covid (787).png,0
+1275,Non-COVID-19 (634).jpeg,Non-Covid (612).png,0
+1276,Non-COVID-19 (703).jpeg,Non-Covid (76).png,0
+1277,Non-COVID-19 (779).jpg,Non-Covid (759).png,0
+1278,Non-COVID-19 (652).jpeg,Non-Covid (649).png,0
+1279,Non-COVID-19 (776).jpg,Non-Covid (630).png,0
+1280,Non-COVID-19 (7).jpg,Non-Covid (710).png,0
+1281,Non-COVID-19 (778).jpg,Non-Covid (755).png,0
+1282,Non-COVID-19 (815).jpg,Non-Covid (771).png,0
+1283,Non-COVID-19 (802).jpeg,Non-Covid (789).png,0
+1284,Non-COVID-19 (775).jpeg,Non-Covid (78).png,0
