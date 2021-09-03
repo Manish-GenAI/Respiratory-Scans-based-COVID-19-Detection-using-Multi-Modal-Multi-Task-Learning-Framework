@@ -14,13 +14,13 @@ def Sample_Processing(x_ray_directory,ct_scan_directory):
 	#Thresholding Methods
 
 	ret,thresh1 = cv2.threshold(final_ct,100,255,cv2.THRESH_BINARY)
-    ret,thresh2 = cv2.threshold(final_ct,100,255,cv2.THRESH_BINARY_INV)
-    ret,thresh3 = cv2.threshold(final_ct,100,255,cv2.THRESH_TRUNC)
-    ret,thresh4 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO)
-    ret,thresh5 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO_INV)
-    th2 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,11,2)
-    th3 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
-    ret,th4 = cv2.threshold(final_ct,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+    	ret,thresh2 = cv2.threshold(final_ct,100,255,cv2.THRESH_BINARY_INV)
+    	ret,thresh3 = cv2.threshold(final_ct,100,255,cv2.THRESH_TRUNC)
+    	ret,thresh4 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO)
+    	ret,thresh5 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO_INV)
+    	th2 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,11,2)
+    	th3 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
+    	ret,th4 = cv2.threshold(final_ct,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
 
 	ret,thresh1 = cv2.threshold(final_x,100,255,cv2.THRESH_BINARY)
 	ret,thresh2 = cv2.threshold(final_x,100,255,cv2.THRESH_BINARY_INV)
