@@ -8,16 +8,16 @@ def Embedding_Model(Model_base_directory,Model_name,Dataset_train_Directory,Data
 
 	if (Model_name != 'NASNetLarge'):
 		ds_train = keras.preprocessing.image_dataset_from_directory(Dataset_train_Directory,
-    	labels = 'inferred',
-    	label_mode = 'binary',
-    	image_size=(224,224),
-    	batch_size = 32)
+    				labels = 'inferred',
+    				label_mode = 'binary',
+    				image_size=(224,224),
+    				batch_size = 32)
 
 		ds_validation = keras.preprocessing.image_dataset_from_directory(Dataset_test_Directory
-    	labels = 'inferred',
-    	label_mode = 'binary',
-    	image_size=(224,224),
-    	batch_size = 32)
+    				labels = 'inferred',
+    				label_mode = 'binary',
+    				image_size=(224,224),
+    				batch_size = 32)
 
 		base_model = keras.applications.Model_name(input_shape=(224,224,3),include_top=False,weights='imagenet')
 		for layer in base_model.layers:
@@ -34,18 +34,18 @@ def Embedding_Model(Model_base_directory,Model_name,Dataset_train_Directory,Data
 
   	else:
   		ds_train = keras.preprocessing.image_dataset_from_directory(Dataset_train_Directory,
-    	labels = 'inferred',
-    	label_mode = 'binary',
-    	image_size=(331,331),
-    	batch_size = 32)
+    				labels = 'inferred',
+    				label_mode = 'binary',
+    				image_size=(331,331),
+    				batch_size = 32)
 
 		ds_validation = keras.preprocessing.image_dataset_from_directory(Dataset_test_Directory
-    	labels = 'inferred',
-    	label_mode = 'binary',
-    	image_size=(331,331),
-    	batch_size = 32)
+    				labels = 'inferred',
+    				label_mode = 'binary',
+    				image_size=(331,331),
+    				batch_size = 32)
 
-		base_model = keras.applications.Model_name(input_shape=(224,224,3),include_top=False,weights='imagenet')
+		base_model = keras.applications.Model_name(input_shape=(331,331,3),include_top=False,weights='imagenet')
 		for layer in base_model.layers:
   			layer.trainable = False
   		model = keras.Sequential()
