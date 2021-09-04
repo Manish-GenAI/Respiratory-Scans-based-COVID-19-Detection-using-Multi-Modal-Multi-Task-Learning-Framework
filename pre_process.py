@@ -14,13 +14,13 @@ def Sample_Processing(x_ray_directory,ct_scan_directory):
 	#Thresholding Methods
 
 	ret,thresh1 = cv2.threshold(final_ct,100,255,cv2.THRESH_BINARY)
-    	ret,thresh2 = cv2.threshold(final_ct,100,255,cv2.THRESH_BINARY_INV)
-    	ret,thresh3 = cv2.threshold(final_ct,100,255,cv2.THRESH_TRUNC)
-    	ret,thresh4 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO)
-    	ret,thresh5 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO_INV)
-    	th2 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,11,2)
-    	th3 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
-    	ret,th4 = cv2.threshold(final_ct,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+	ret,thresh2 = cv2.threshold(final_ct,100,255,cv2.THRESH_BINARY_INV)
+	ret,thresh3 = cv2.threshold(final_ct,100,255,cv2.THRESH_TRUNC)
+	ret,thresh4 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO)
+	ret,thresh5 = cv2.threshold(final_ct,100,255,cv2.THRESH_TOZERO_INV)
+	th2 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,11,2)
+	th3 = cv2.adaptiveThreshold(final_ct,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
+	ret,th4 = cv2.threshold(final_ct,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
 
 	ret,thresh1 = cv2.threshold(final_x,100,255,cv2.THRESH_BINARY)
 	ret,thresh2 = cv2.threshold(final_x,100,255,cv2.THRESH_BINARY_INV)
@@ -95,12 +95,12 @@ def Dataset_Processing(x_base_directory,ct_base_directory):
 		img_x = cv2.imread(os.path.join(x_base_directory,i),0)
 		clahe_x = cv2.createCLAHE(clipLimit=4.0, tileGridSize=(8,8))
 		final_x = clahe_x.apply(img_x)
-  		final_x = cv2.resize(final_x,(224,224))
-  		cv2.imwrite(os.path.join(x_base_directory,i),final_x)
+		final_x = cv2.resize(final_x,(224,224))
+		cv2.imwrite(os.path.join(x_base_directory,i),final_x)
 
-  	for j in tqdm(os.listdir(ct_base_directory)):
+	for j in tqdm(os.listdir(ct_base_directory)):
 		img_ct = cv2.imread(os.path.join(ct_base_directory,j),0)
 		clahe_ct = cv2.createCLAHE(clipLimit=4.0, tileGridSize=(8,8))
 		final_ct = clahe_ct.apply(img_ct)
-  		final_ct = cv2.resize(final_ct,(224,224))
-  		cv2.imwrite(os.path.join(ct_base_directory,i),final_ct)
+		final_ct = cv2.resize(final_ct,(224,224))
+		cv2.imwrite(os.path.join(ct_base_directory,i),final_ct)
