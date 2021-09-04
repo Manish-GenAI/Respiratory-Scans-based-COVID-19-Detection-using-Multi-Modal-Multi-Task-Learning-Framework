@@ -2,6 +2,7 @@ import tensorflow as tf
 from tensorflow import keras
 import pandas as pd
 import numpy as np
+import os
 
 def x_ray_task_specific(Model_base_directory,train_embed_directory,test_embed_directory,train_labels,test_labels):
 
