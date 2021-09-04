@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from tqdm import tqdm
 from PIL import Image, ImageFilter
-import matplotlib.pyplot as plt
 
 def Sample_Processing(x_ray_directory,ct_scan_directory):
 
