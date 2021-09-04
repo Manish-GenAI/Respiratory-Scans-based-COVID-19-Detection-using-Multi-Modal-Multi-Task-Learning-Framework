@@ -262,5 +262,7 @@ def Dataset_Processing(x_base_directory,ct_base_directory):
 		img_ct = cv2.imread(os.path.join(ct_base_directory,j),0)
 		clahe_ct = cv2.createCLAHE(clipLimit=4.0, tileGridSize=(8,8))
 		final_ct = clahe_ct.apply(img_ct)
+		ker = np.ones((2,2))
+		final_ct = cv2.morphologyEx(final_ct, cv2.MORPH_OPEN, ker)
 		final_ct = cv2.resize(final_ct,(224,224))
-		cv2.imwrite(os.path.join(ct_base_directory,i),final_ct)
+		cv2.imwrite(os.path.join(ct_base_directory,j),final_ct)
