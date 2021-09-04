@@ -39,11 +39,11 @@ def gen_model():
 def gen_loss_func(gen_embed,invert_label):
 	return tf.nn.sigmoid_cross_entropy_with_logits(labels = invert_label, logits = gen_embed)
 
-def train_step(reference,old_gen_loss,old_disc_loss,train_label,invert_label):
+def train_step(reference_embed,old_gen_loss,old_disc_loss,train_label,invert_label):
 	with tf.GradientTape() as gen_tape, tf.GradientTape() as disc_tape:
-		features = gen(reference, training=True)
-		real_output = disc(reference, training=True)
-		features_output = disc(reference, training=True)
+		features = gen(reference_embed, training=True)
+		real_output = disc(reference_embed, training=True)
+		features_output = disc(reference_embed, training=True)
 		gen_loss = gen_loss_func(features_output,invert_label)
 		disc_loss = disc_loss_func(real_output,features_output,train_label,invert_label)
 
