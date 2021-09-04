@@ -6,7 +6,7 @@ from tensorflow import keras
 
 def Embedding_Model(Model_base_directory,Model_name,Dataset_train_Directory,Dataset_test_Directory):
 
-	if (Model_name != 'NASNetLarge'):
+	if (Model_name != NASNetLarge):
 		ds_train = keras.preprocessing.image_dataset_from_directory(Dataset_train_Directory,
     				labels = 'inferred',
     				label_mode = 'binary',
