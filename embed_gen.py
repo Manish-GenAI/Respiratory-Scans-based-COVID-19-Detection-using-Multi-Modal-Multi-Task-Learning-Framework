@@ -53,3 +53,9 @@ def Embedding_Model(Model_save_directory,Model_Class,Dataset_train_Directory,Dat
 		save_callback = keras.callbacks.ModelCheckpoint(Model_save_directory,monitor='val_accuracy',verbose=1,save_best_only=True,mode='max')
 		model.compile(optimizer=keras.optimizers.Adam(),loss=keras.losses.BinaryCrossentropy(from_logits=True),metrics=['accuracy',keras.metrics.AUC(from_logits=True)])
 		hist = model.fit(ds_train,epochs=100,verbose=1,validation_data=ds_validation,use_multiprocessing=True,callbacks=save_callback)
+
+def Embedding_Save(Embed_save_Directory,Trained_Model_Class,Input):
+	Trained_Model_Class.trainable=False
+	for i in Trained_Model_Class.layers[:-1]:
+		Input = i(Input)
+	np.save(Embed_save_Directory,Input)
