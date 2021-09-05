@@ -18,7 +18,7 @@ def mlp_model():
 	return mlp
 
 def mlp_train(Model_save_Directory,x_train_embed,x_test_embed,ct_train_embed,ct_test_embed,train_labels,test_labels):
-	train = np.concatenate((x_train_emebd,ct_train_embed),axis=0)
+	train = np.concatenate((x_train_embed,ct_train_embed),axis=0)
 	test = np.concatenate((x_test_embed,ct_test_embed),axis=0)
 	mlp = mlp_model()
 	mlp.compile(optimizer='Adam',loss=keras.losses.BinaryCrossentropy(from_logits=False),metrics=['accuracy',keras.metrics.AUC(from_logits=False)])
