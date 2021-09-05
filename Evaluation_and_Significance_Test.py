@@ -7,13 +7,13 @@ import pandas as pd
 from sklearn.metrics import confusion_matrix
 from scipy.stats import f_oneway as anova
 
-def Evaluation_metrics(prob_list,label,threshold=0.5):
+def Evaluation_metrics(prob_list,labels,threshold=0.5):
 	for i in range(0,len(prob_list)):
 		if (prob_list[i] >= threshold):
 			prob_list[i] = 1
 		else:
 			prob_list[i] = 0
-	con = confusion_matrix(label,prob_list)
+	con = confusion_matrix(labels,prob_list)
 	print("Confusion Matrix")
 	print(con)
 	print(" ")
@@ -48,7 +48,7 @@ def Significance_Test(Save_Directory,task_train_embed,shared_train_embed,task_te
 	for j in range(1,10):
 		te = keras.models.load_model(Save_Directory+'_'+str(j)+'.h5')
 		te.compile(loss=keras.losses.BinaryCrossentropy(from_logits=False),optimizer='Adam',metrics=['accuracy',keras.metrics.AUC(from_logits=False)])
-		y_metric = te.evaluate(x=x_test,y=test_label,batch_size=32,use_multiprocessing=True,verbose=1)
+		y_metric = te.evaluate(x=x_test,y=test_labels,batch_size=32,use_multiprocessing=True,verbose=1)
 		y_pred = te.predict(x_test)
 		np.save(Save_Directory+'_'+str(j)+'.npy',y_pred)
 	print(" ")
