@@ -53,6 +53,88 @@ For the ease of Training and Implementation flow, following structure would be a
 
 ## Steps for User-Customized Training
 
+1. Arrange the Dataset according to the adviced structure, mentioned above.
+
+2. Run Dataset_PreProcessing.py, which consist of 2 functions, naming Sample_Processing and Dataset_Processing, with the following details :-
+   
+   - Sample_Processing(x_ray_directory,ct_scan_directory) :
+      - x_ray_directory --> A String of the X-Ray Image File Path with the name of the file and extension of it.
+      - ct_scan_directory --> A String of the CT-Scan Image File Path with the name of the file and extension of it.
+   
+   - Dataset_Processing(x_base_directory,ct_base_directory) :
+      - x_base_directory --> A String of the X-Ray Folder Path (till COVID or Non-COVID Folder).
+      - ct_base_directory --> A String of the CT-Scan Folder Path (till COVID or Non-COVID Folder).
+
+3. Run Embeddings_Generator.py, which consist of 2 functions, naming Embedding_Model and Embedding_Save, with the following details :-
+   
+   - Embedding_Model(Model_save_directory,Model_Class,Dataset_train_Directory,Dataset_test_Directory) :
+      - Model_save_directory --> A String of the Transfer Learning Model Path, to be saved in future, with the name of file and extension (.h5 or .hdf5) of it.
+      - Model_Class --> A Class Name of the Transfer Learning Model, like keras.applications.VGG16
+      - Dataset_train_Directory --> A String of the Train Dataset Directory Path (till x_ray_train or ct_scan_train folder).
+      - Dataset_test_Directory --> A String of the Train Dataset Directory Path (till x_ray_test or ct_scan_test folder).
+   
+   - Embedding_Save(Embed_save_Directory,Trained_Model_Class,Dataset_Directory,Image_Size) :
+      - Embed_save_Directory --> A String of the Directory Path (with the name of file and extension (.npy) of it) where the Embeddings would be saved.
+      - Trained_Model_Class --> The Class of the Trained Transfer Learning Model, which would be loaded from the user side using keras.models.load_model(<--Model_Path-->).
+      - Image_Size --> The Size of images to be taken as input (331 for NasNetLarge and 224 for others) during embedding generation.
+      - Dataset_Directory --> A String of the Dataset Directory Path (till x_ray_train, ct_scan_train, x_ray_test or ct_scan_test folder).
+
+4. Run Task_Specific_Feature_Extractor.py, which consist of 2 functions, naming x_ray_task_specific and ct_scan_task_specific, with the following details :-
+   
+   - x_ray_task_specific(Model_save_directory,train_embed,test_embed,train_labels,test_labels) :
+      - Model_save_directory --> A String of the X-Ray Task Specific Feature Extractor Path, to be saved in future, with the name of file and extension (.h5 or .hdf5) of it.
+      - train_embed --> A numpy array of embeddings from training dataset images.
+      - test_embed --> A numpy array of embeddings from testing dataset images.
+      - train_labels --> A numpy array of task-specific labels (whether COVID or Non-COVID) from training dataset images.
+      - test_labels --> A numpy array of task-specific labels (whether COVID or Non-COVID) from testing dataset images.
+   
+   - ct_scan_task_specific(Model_save_directory,train_embed,test_embed,train_labels,test_labels) :
+      - Model_save_directory --> A String of the CT-Scan Task Specific Feature Extractor Path, to be saved in future, with the name of file and extension (.h5 or .hdf5) of it.
+      - train_embed --> A numpy array of embeddings from training dataset images.
+      - test_embed --> A numpy array of embeddings from testing dataset images.
+      - train_labels --> A numpy array of task-specific labels (whether COVID or Non-COVID) from training dataset images.
+      - test_labels --> A numpy array of task-specific labels (whether COVID or Non-COVID) from testing dataset images.
+
+5. Decide whether to make Shared Features Extractors with or without Adversarial Training. Depending upon the choice, following would be the implementation :-
+
+   - Without Adversarial Training, Run Shared_Features_Without_Adversarial.py, which consist of 2 functions, naming mlp_model and mlp_train, with the following details :-
+      - mlp_model() --> It would make the MLP model with pre-defined parameters and architecture.
+      - mlp_train(Model_save_Directory,x_train_embed,x_test_embed,ct_train_embed,ct_test_embed,train_labels,test_labels) --> A function to Train the pre-defined MLP Model with the help of training and testing embeddings of X-Ray and CT-Scan with their corresponding Task-Specific Labels (Whether COVID or Non-COVID), all being of the form of numpy array.
+
+   - With Adversarial Training, Run Shared_Features_Extractor.py, which consist of some functions, with their following details :- 
+      - gen_model() and disc_model() --> These Functions would produce the MLP Architecture with pre-defined parameters.
+      - disc_loss_func(actual_embed,gen_embed,train_labels,invert_labels) --> Discriminator Loss Function where the actual input and generator's output go alongside Actual training labels and inverted labels (interchanging classes --> Whether X-Rays or CT-Scans), all of the form of numpy arrays.
+      - gen_loss_func(gen_embed,invert_labels) --> Generator Loss Function where the Generated Output and inverted class labels (Whether X-Rays or CT-Scans) go, all of the form of numpy arrays.
+      - train_step(actual_embed,old_gen_loss,old_disc_loss,train_labels,invert_labels) --> Adversarial Training happens here, alongside Actual Input, Old Values of Generator and Discriminator Loss, with Training Labels and Inverted Class Labels, all of the form of numpy arrays.
+      - fine_tune(Model_save_Directory,model_gen,x_train_embed,x_test_embed,ct_train_embed,ct_test_embed) --> Here, the Shared Feature Extractor Module would be fine tuned and best model iteration would be saved according to "Model_save_Directory", with Class Labels (Whether X-Rays or CT-Scans).
+
+6. Run Classifier_Head.py, which consist of 2 functions, naming Classifier_Head and Final_Embeddings, with the following details :-
+
+   - Classifier_Head(Model_save_Directory,train_embed,test_embed,train_labels,test_labels) :
+      - Model_save_Directory --> A String of the Classifier Head Path, to be saved in future, with the name of file and extension (.h5 or .hdf5) of it.
+      - train_embed --> A numpy array of embeddings from training dataset images, after passing through Task Specific and Shared Features Extractor Modules.
+      - test_embed --> A numpy array of embeddings from testing dataset images, after passing through Task Specific and Shared Features Extractor Modules.
+      - train_labels --> A numpy array of Labels (Whether COVID or Non-COVID) for training dataset images.
+      - test_labels --> A numpy array of Labels (Whether COVID or Non-COVID) for testing dataset images.
+    
+   - Final_Embeddings(<----Arguments---->) :
+      - shared_model, x_task_model, ct_task_model --> Model Classes of Shared Features Extractor and Task-Specific X-Ray and CT-Scans Feature Extractors, loaded using keras.models.load_model(<--Model_Path-->).
+      - shared_x_ray_train_input,shared_x_ray_test_input,shared_ct_train_input,shared_ct_test_input --> Numpy arrays of Embeddings Input for Shared Features Extractor Modules.
+      - task_x_ray_train_input,task_x_ray_test_input,task_ct_train_input,task_ct_test_input --> Numpy arrays of Embeddings Input for Task-Specific Features Extractor Modules.
+
+7. For Evaluating and Analysing the Generalization of Implementation, Run Evaluation_and_Significance_Test.py, which consist of 2 functions, naming Evaluation_metrics and Significance_Test, with the following details :-
+   
+   - Evaluation_metrics(prob_list,labels,threshold=0.5) :
+      - prob_list --> List of Output Probabilities after implementing the whole pipeline.
+      - labels --> Output Classes vector.
+      - threshold --> Confidence Probability (generally 0.5 for ideal sigmoid scenario).
+   
+   - Significance_Test(Save_Directory,task_train_embed,shared_train_embed,task_test_embed,shared_test_embed,train_labels,test_labels) :
+      - Save_Directory --> A String of Sample Run Iterations, with the name and extension (.h5 or .hdf5) on it.
+      - task_train_embed,shared_train_embed --> Numpy arrays of Task Specific and Shared Features Embeddings from Training Data.
+      - task_test_embed,shared_test_embed --> Numpy arrays of Task Specific and Shared Features Embeddings from Testing Data.
+      - train_labels,test_labels --> Numpy arrays of Training and Testing Labels (Whether COVID or Non-COVID)
+
 ## Test Run using Pre-Trained Pipeline
 
 Run Pre_Trained_Pipeline.py with the Directory Paths mentioned accordingly.
