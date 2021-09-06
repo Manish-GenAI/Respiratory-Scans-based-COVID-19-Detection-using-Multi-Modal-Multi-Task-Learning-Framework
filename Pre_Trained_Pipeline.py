@@ -20,8 +20,8 @@ def Pre_Process(x,ct):
 def Task_Specific_Embed(Save_Folder_Directory,x,ct):
 	x_model = keras.models.load_model(Save_Folder_Directory+'/X_Embed_Task_EfficientNetB0.h5',compile=False)
 	ct_model = keras.models.load_model(Save_Folder_Directory+'/CT_Embed_Task_EfficientNetB1.h5',compile=False)
-	task_x = keras.models.load_mode(Save_Folder_Directory+'X_Ray_Task1st.h5',compile=False)
-	task_ct = keras.models.load_model(Save_Folder_Directory+'/CT_Scan_Task5th.h5',compile=False)
+	task_x = keras.models.load_mode(Save_Folder_Directory+'X_Ray_Task.h5',compile=False)
+	task_ct = keras.models.load_model(Save_Folder_Directory+'/CT_Scan_Task.h5',compile=False)
 
 	x_layers = x_model.layers[:-1]
 	ct_layers = ct_model.layers[:-1]
@@ -41,7 +41,7 @@ def Task_Specific_Embed(Save_Folder_Directory,x,ct):
 def Shared_Feature_Embed(Save_Folder_Directory,x,ct):
 	x_model = keras.models.load_model(Save_Folder_Directory+'/X_Embed_Shared_ResNet50.h5',compile=False)
 	ct_model = keras.models.load_model(Save_Folder_Directory+'/CT_Embed_Shared_ResNet50V2.h5',compile=False)
-	shared_model = keras.models.load_model(Save_Folder_Directory+'/Shared_Model_65.h5',compile=False)
+	shared_model = keras.models.load_model(Save_Folder_Directory+'/Shared_Model.h5',compile=False)
 	x_layers = x_model.layers[:-1]
 	ct_layers = ct_model.layers[:-1]
 	sh_layers = shared_model.layers[:-1]
@@ -55,8 +55,8 @@ def Shared_Feature_Embed(Save_Folder_Directory,x,ct):
 	return x,ct
 
 def Classification(Save_Folder_Directory,x,ct):
-	classifier_x = keras.models.load_model(Save_Folder_Directory+'/Classifier_Head_MX3.h5',compile=False)
-	classifier_ct = keras.models.load_model(Save_Folder_Directory+'/Classifier_Head_MC3.h5',compile=False)
+	classifier_x = keras.models.load_model(Save_Folder_Directory+'/Classifier_Head_X.h5',compile=False)
+	classifier_ct = keras.models.load_model(Save_Folder_Directory+'/Classifier_Head_CT.h5',compile=False)
 	ta_x,ta_ct = Task_Specific_Embed(Save_Folder_Directory,x,ct)
 	sh_x,sh_ct = Shared_Feature_Embed(Save_Folder_Directory,x,ct)
 	Feature_x = np.concatenate((ta_x,sh_x),axis=1)
