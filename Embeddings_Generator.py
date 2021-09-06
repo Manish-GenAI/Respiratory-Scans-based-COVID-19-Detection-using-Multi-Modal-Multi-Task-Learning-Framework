@@ -54,8 +54,17 @@ def Embedding_Model(Model_save_directory,Model_Class,Dataset_train_Directory,Dat
 		model.compile(optimizer=keras.optimizers.Adam(),loss=keras.losses.BinaryCrossentropy(from_logits=True),metrics=['accuracy',keras.metrics.AUC(from_logits=True)])
 		hist = model.fit(ds_train,epochs=100,verbose=1,validation_data=ds_validation,use_multiprocessing=True,callbacks=save_callback)
 
-def Embedding_Save(Embed_save_Directory,Trained_Model_Class,Input):
+def Embedding_Save(Embed_save_Directory,Trained_Model_Class,Dataset_Directory,Image_Size):
+	if (Image_Size != 331):
+		x_train = keras.preprocessing.image_dataset_from_directory(Dataset_Directory,label_mode=None,labels=None,batch_size=32,image_size=(Image_Size,Image_Size)))
+	else:
+		x_train = keras.preprocessing.image_dataset_from_directory(Dataset_Directory,label_mode=None,labels=None,batch_size=32,image_size=(331,331)))
 	Trained_Model_Class.trainable=False
-	for i in Trained_Model_Class.layers[:-1]:
-		Input = i(Input)
-	np.save(Embed_save_Directory,Input)
+	Trained_Model_Class.pop()
+	np_embed = []
+	for x in x_train:
+		interm = Trained_Model_Class(x).numpy().tolist()
+		for inte in interm:
+			np_embed.append(inte)
+	np_embed = np.array(np_embed)
+	np.save(Embed_save_Directory,np_embed)
