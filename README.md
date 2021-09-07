@@ -2,6 +2,8 @@
 
 ## About
 
+![MTLArch](https://user-images.githubusercontent.com/54277039/132307382-53335fdc-06ce-4c9b-b9d6-fa6a266cf219.png)
+
 ## Required Python Dependencies
 
 These were categorized according to their application purposes as following :-
