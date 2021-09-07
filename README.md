@@ -163,6 +163,13 @@ Run Pre_Trained_Pipeline.py with the Directory Paths mentioned accordingly.
 
 Pre-Trained Model Weights ---> https://drive.google.com/drive/folders/15-Mtxa5xtQzt-5WVYO17u9uixWlcXO8l?usp=sharing
 
-## Citation
-
 ## Documentations and Resources
+
+1. https://keras.io/api/applications/
+2. https://docs.opencv.org/4.5.1/d2/d96/tutorial_py_table_of_contents_imgproc.html
+3. https://www.youtube.com/watch?v=tX-6CMNnT64&list=LL&index=102
+4. https://docs.scipy.org/doc/scipy/reference/stats.html
+5. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+6. https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce
+
+## Citation
