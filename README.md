@@ -135,6 +135,28 @@ For the ease of Training and Implementation flow, following structure would be a
       - task_test_embed,shared_test_embed --> Numpy arrays of Task Specific and Shared Features Embeddings from Testing Data.
       - train_labels,test_labels --> Numpy arrays of Training and Testing Labels (Whether COVID or Non-COVID)
 
+8. Run User_Customized_Pipeline.py, which consist of some functions, with the following details :-
+
+   - Pre_Process(x,ct) :
+      - x --> Greyscaled X-Ray Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
+      - ct --> Greyscaled CT-Scan Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
+   - Task_Specific_Embed(Save_Folder_Directory,x,ct) :
+      - Save_Folder_Directory --> A String of the Container Folder Path where each component of the Pipeline was saved.
+      - x --> Pre-Processed X-Ray Image Matrix.
+      - ct --> Pre-Processed CT-Scan Image Matrix. 
+   - Shared_Feature_Embed(Save_Folder_Directory,x,ct) :
+      - Save_Folder_Directory --> A String of the Container Folder Path where each component of the Pipeline was saved.
+      - x --> Pre-Processed X-Ray Image Matrix.
+      - ct --> Pre-Processed CT-Scan Image Matrix.
+   - Classification(Save_Folder_Directory,x,ct) : 
+      - Save_Folder_Directory --> A String of the Container Folder Path where each component of the Pipeline was saved.
+      - x --> Pre-Processed X-Ray Image Matrix.
+      - ct --> Pre-Processed CT-Scan Image Matrix. 
+   - Test_Run(Save_Folder_Directory,X_Ray_Grey_Image,CT_Scan_Grey_Image) : 
+      - Save_Folder_Directory --> A String of the Container Folder Path where each component of the Pipeline was saved.
+      - X_Ray_Grey_Image --> Greyscaled X-Ray Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
+      - CT_Scan_Grey_Image --> Greyscaled CT-Scan Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
+
 ## Test Run using Pre-Trained Pipeline
 
 Run Pre_Trained_Pipeline.py with the Directory Paths mentioned accordingly.
