@@ -25,8 +25,8 @@ def Task_Specific_Embed(Save_Folder_Directory,x,ct):
 
 	x_layers = x_model.layers[:-1]
 	ct_layers = ct_model.layers[:-1]
-	task_x_layers = task_x.layers[2:-1]
-	task_ct_layers = task_ct.layers[1:-1]
+	task_x_layers = task_x.layers[:-1]
+	task_ct_layers = task_ct.layers[:-1]
 
 	for i in x_layers:
 		x = i(x)
