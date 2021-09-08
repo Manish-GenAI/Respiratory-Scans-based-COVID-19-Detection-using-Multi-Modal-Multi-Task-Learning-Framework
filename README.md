@@ -159,6 +159,12 @@ For the ease of Training and Implementation flow, following structure would be a
       - X_Ray_Grey_Image --> Greyscaled X-Ray Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
       - CT_Scan_Grey_Image --> Greyscaled CT-Scan Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
 
+## Pre-Processed Train-Test Dataset
+
+In order to start with the suggested Dataset from the Research Paper, access this link and use it accordingly, with Label Annotations as train.csv and test.csv. 
+
+https://drive.google.com/drive/folders/11YKYq6Go6RmIXziIYts5nB97e9LVstzd?usp=sharing
+
 ## Test Run using Pre-Trained Pipeline
 
 Run Pre_Trained_Pipeline.py with the Directory Paths mentioned accordingly.
