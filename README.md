@@ -161,7 +161,7 @@ For the ease of Training and Implementation flow, following structure would be a
 
 ## Pre-Processed Train-Test Dataset
 
-In order to start with the suggested Dataset from the Research Paper, access this link and use it accordingly, with Label Annotations as train.csv and test.csv. 
+In order to start with the suggested Dataset from the Research Paper, access this link and use it accordingly, with Label Annotations as train.csv and test.csv. As it was already pre-processed, Running Dataset_PreProcessing.py won't be a requirement.
 
 https://drive.google.com/drive/folders/11YKYq6Go6RmIXziIYts5nB97e9LVstzd?usp=sharing
 
