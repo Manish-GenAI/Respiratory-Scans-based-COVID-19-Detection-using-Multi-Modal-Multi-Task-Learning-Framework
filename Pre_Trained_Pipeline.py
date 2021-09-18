@@ -77,5 +77,5 @@ def Test_Run(Save_Folder_Directory,X_Ray_Grey_Image,CT_Scan_Grey_Image):
 
 x_ray = cv2.imread(input("Enter the File Path for Chest X-Ray Input Image --> "),0)
 ct_scan = cv2.imread(input("Enter the File Path for CT-Scan Input Image --> "),0)
-root_directory = input("Enter the Root Folder Directory Path for Each and Every saved Components of the Pipeline --> ")
+root_directory = input("Enter the Root Folder Directory Path for Each and Every saved Components of the Pre-Trained Pipeline --> ")
 Test_Run(root_directory,x_ray,ct_scan)
