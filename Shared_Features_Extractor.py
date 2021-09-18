@@ -79,9 +79,9 @@ print("1. Adversarial Training for Shared Features Module ")
 print("2. Fine Tuning the Adversarially Trained Shared Features Module ")
 option = input()
 if (option == "1"):
-	x_ray_train = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings"))
-	ct_scan_train = np.load(input("Enter the File Path for CT-Scan Train Embeddings"))
-	save_directory = input("Enter the File Path to save Adversarially Trained Shared Features Module")
+	x_ray_train = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings --> "))
+	ct_scan_train = np.load(input("Enter the File Path for CT-Scan Train Embeddings --> "))
+	save_directory = input("Enter the File Path to save Adversarially Trained Shared Features Module --> ")
 	train = np.concatenate((x,ct),axis=0)
 	x_label = [1.0]*x_ray_train.shape[0]
 	ct_label = [0.0]*ct_scan_train.shape[0]
@@ -98,12 +98,12 @@ if (option == "1"):
 	gen.save(save_directory)
  
 elif ( option == "2"):
-	x_ray_train = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings"))
-	x_ray_test = np.load(input("Enter the File Path for Chest X-Ray Test Embeddings"))
-	ct_scan_train = np.load(input("Enter the File Path for CT-Scan Train Embeddings"))
-	ct_scan_test = np.load(input("Enter the File Path for CT-Scan Test Embeddings"))
-	save_directory = input("Enter the File Path to save the Adversarially fine-tuned Shared Features Module")
-	model_gen = keras.models.load_model(input("Enter the File Path for the Adversarially trained Shared Features Module"))
+	x_ray_train = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings --> "))
+	x_ray_test = np.load(input("Enter the File Path for Chest X-Ray Test Embeddings --> "))
+	ct_scan_train = np.load(input("Enter the File Path for CT-Scan Train Embeddings --> "))
+	ct_scan_test = np.load(input("Enter the File Path for CT-Scan Test Embeddings --> "))
+	save_directory = input("Enter the File Path to save the Adversarially fine-tuned Shared Features Module --> ")
+	model_gen = keras.models.load_model(input("Enter the File Path for the Adversarially trained Shared Features Module --> "))
 	fine_tune(save_directory,model_gen,x_ray_train,x_ray_test,ct_scan_train,ct_scan_test)
 else:
 	print("Inadequate Input Option")
