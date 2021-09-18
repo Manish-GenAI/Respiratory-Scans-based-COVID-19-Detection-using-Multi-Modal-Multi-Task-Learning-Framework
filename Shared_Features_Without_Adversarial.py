@@ -24,3 +24,12 @@ def mlp_train(Model_save_Directory,x_train_embed,x_test_embed,ct_train_embed,ct_
 	mlp.compile(optimizer='Adam',loss=keras.losses.BinaryCrossentropy(from_logits=False),metrics=['accuracy',keras.metrics.AUC(from_logits=False)])
 	save = keras.callbacks.ModelCheckpoint(Model_save_Directory,monitor='val_accuracy',mode='max',save_best_only=True,verbose=1)
 	hist = mlp.fit(x=train,y=train_labels,validation_data=(test,test_labels),verbose=1,epochs=100,batch_size=32,use_multiprocessing=True,callbacks=save)
+
+save_directory = input("Enter the File Path for Saving the Shared Features Module --> ")
+x_train_embed = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings --> "))
+x_test_embed = np.load(input("Enter the File Path for Chest X-Ray Test Embeddings --> "))
+ct_train_embed = np.load(input("Enter the File Path for CT-Scan Train Embeddings --> "))
+ct_test_embed = np.load(input("Enter the File Path for CT-Scan Test Embeddings --> "))
+train_labels = np.load(input("Enter the File Path for Train Labels --> "))                              # Overall Labels should be arranged as concatenated version of x-ray labels and ct-scans labels
+test_labels = np.load(input("Enter the File Path for Test Labels --> "))
+mlp_train(save_directory,x_train_embed,x_test_embed,ct_train_embed,ct_test_embed,train_labels,test_labels)
