@@ -67,7 +67,7 @@ For the ease of Training and Implementation flow, following structure would be a
       - x_base_directory --> A String of the X-Ray Folder Path (till COVID or Non-COVID Folder).
       - ct_base_directory --> A String of the CT-Scan Folder Path (till COVID or Non-COVID Folder).
 
-3. Run Embeddings_Generator.py, which consist of 2 functions, naming Embedding_Model and Embedding_Save, with the following details :-
+3. Run Embeddings_Generator.py, which consist of 2 functions, naming Embedding_Model and Embedding_Save, with the following details **(Replace Model_Name with keras-based Model Classes like keras.applications.VGG16, keras.applications.InceptionV3, etc.)** :-
    
    - Embedding_Model(Model_save_directory,Model_Class,Dataset_train_Directory,Dataset_test_Directory) :
       - Model_save_directory --> A String of the Transfer Learning Model Path, to be saved in future, with the name of file and extension (.h5 or .hdf5) of it.
