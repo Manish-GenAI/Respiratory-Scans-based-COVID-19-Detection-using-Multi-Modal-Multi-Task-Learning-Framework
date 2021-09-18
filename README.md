@@ -71,7 +71,7 @@ For the ease of Training and Implementation flow, following structure would be a
    
    - Embedding_Model(Model_save_directory,Model_Class,Dataset_train_Directory,Dataset_test_Directory) :
       - Model_save_directory --> A String of the Transfer Learning Model Path, to be saved in future, with the name of file and extension (.h5 or .hdf5) of it.
-      - Model_Class --> A Class Name of the Transfer Learning Model, like keras.applications.VGG16
+      - Model_Class --> A Class Name of the Transfer Learning Model, like keras.applications.VGG16 (To be changed by the user in Function File)
       - Dataset_train_Directory --> A String of the Train Dataset Directory Path (till x_ray_train or ct_scan_train folder).
       - Dataset_test_Directory --> A String of the Train Dataset Directory Path (till x_ray_test or ct_scan_test folder).
    
