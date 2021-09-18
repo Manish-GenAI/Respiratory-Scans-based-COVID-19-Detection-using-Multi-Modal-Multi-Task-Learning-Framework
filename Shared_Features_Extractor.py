@@ -4,6 +4,9 @@ import numpy as np
 import os
 import pandas as pd
 
+disc_optim = tf.optimizers.Adam(0.00001)
+gen_optim = tf.optimizers.Adam(0.00001)
+
 def disc_model():
 	disc = keras.Sequential()
 	disc.add(keras.layers.InputLayer(input_shape=1280))
@@ -72,8 +75,6 @@ def fine_tune(Model_save_Directory,model_gen,x_train_embed,x_test_embed,ct_train
 	save = keras.callbacks.ModelCheckpoint(Model_save_Directory,monitor='val_accuracy',mode='max',save_best_only=True,verbose=1)
 	hist = model.fit(x=train_embed,y=train_labels,validation_data=(test_embed,test_labels),epochs=100,verbose=1,use_multiprocessing=True,callbacks=save)
  
-disc_optim = tf.optimizers.Adam(0.00001)
-gen_optim = tf.optimizers.Adam(0.00001)
 print("Enter the Function to be implemented ?")
 print("1. Adversarial Training for Shared Features Module ")
 print("2. Fine Tuning the Adversarially Trained Shared Features Module ")
