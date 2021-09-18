@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
+from tqdm import tqdm
 
 def Embedding_Model(Model_save_directory,Model_Class,Dataset_train_Directory,Dataset_test_Directory):
 	if (Model_Class != keras.applications.NASNetLarge):
@@ -60,9 +61,27 @@ def Embedding_Save(Embed_save_Directory,Trained_Model_Class,Dataset_Directory,Im
 	Trained_Model_Class.trainable=False
 	Trained_Model_Class.pop()
 	np_embed = []
-	for xi in x:
+	for xi in tqdm(x):
 		interm = Trained_Model_Class(xi).numpy().tolist()
 		for i in interm:
 			np_embed.append(i)
 	np_embed = np.array(np_embed)
 	np.save(Embed_save_Directory,np_embed)
+
+print("Enter the Function to be implemented ?")
+print("1. Embedding_Model ")
+print("2. Embedding_Save ")
+option = input()
+if (option == "1"):
+	train_directory = input("Enter the Root Directory of Train Subpart --> ")
+	test_directory = input("Enter the Root Directory of Test Subpart --> ")
+	model_directory = input("Enter the File Path to save the Embedding Generator Model --> ")
+	Embedding_Model(model_directory,Model_Name,train_directory,test_directory)        # Model_Name in format like keras.applications.VGG16, keras.applications.MobileNet, etc.
+elif (option == "2"):
+	embed_directory = input("Enter the File Path for Saving Embeddings --> ")
+	dataset_directory = input("Enter the Root Directory for Images Folder --> ")
+	img_size = int(input("Enter the Desired Size of the Image --> "))
+	model_class = keras.models.load_model(input("Enter the File Path for Embedding Generator Model --> "),compile=False)
+	Embedding_Save(embed_directory,model_class,dataset_directory,img_size)
+else:
+	print("Inadequate Input Option")
