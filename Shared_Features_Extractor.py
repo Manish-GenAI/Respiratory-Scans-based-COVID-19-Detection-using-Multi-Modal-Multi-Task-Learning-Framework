@@ -71,3 +71,37 @@ def fine_tune(Model_save_Directory,model_gen,x_train_embed,x_test_embed,ct_train
 	model.compile(optimizer='Adam',loss=keras.losses.BinaryCrossentropy(from_logits=False),metrics=['accuracy',keras.metrics.AUC(from_logits=False)])
 	save = keras.callbacks.ModelCheckpoint(Model_save_Directory,monitor='val_accuracy',mode='max',save_best_only=True,verbose=1)
 	hist = model.fit(x=train_embed,y=train_labels,validation_data=(test_embed,test_labels),epochs=100,verbose=1,use_multiprocessing=True,callbacks=save)
+ 
+disc_optim = tf.optimizers.Adam(0.00001)
+gen_optim = tf.optimizers.Adam(0.00001)
+print("Enter the Function to be implemented ?")
+print("1. Adversarial Training for Shared Features Module ")
+print("2. Fine Tuning the Adversarially Trained Shared Features Module ")
+option = input()
+if (option == "1"):
+	x_ray_train = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings"))
+	ct_scan_train = np.load(input("Enter the File Path for CT-Scan Train Embeddings"))
+	train = np.concatenate((x,ct),axis=0)
+	x_label = [1.0]*x_ray_train.shape[0]
+	ct_label = [0.0]*ct_scan_train.shape[0]
+	train_label = x_label + ct_label
+	train_label = np.array(train_label).astype('float32')
+	invert_label = np.array(ct_label+x_label).astype('float32')
+	gen = gen_model()
+	disc = disc_model()
+	epochs = 10
+	gen_loss = 500
+	disc_loss = 500
+	for epoch in range(epochs):
+	gen_loss,disc_loss = train_step(train,gen_loss,disc_loss,train_label.reshape((train_label.shape[0],1)),invert_label.reshape((invert_label.shape[0],1)))
+ 
+elif ( option == "2"):
+	x_ray_train = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings"))
+	x_ray_test = np.load(input("Enter the File Path for Chest X-Ray Test Embeddings"))
+	ct_scan_train = np.load(input("Enter the File Path for CT-Scan Train Embeddings"))
+	ct_scan_test = np.load(input("Enter the File Path for CT-Scan Test Embeddings"))
+	save_directory = input("Enter the File Path to save the Adversarially fine-tuned Shared Features Module")
+	model_gen = keras.models.load_model(input("Enter the File Path for the Adversarially trained Shared Features Module"))
+	fine_tune(save_directory,model_gen,x_ray_train,x_ray_test,ct_scan_train,ct_scan_test)
+else:
+	print("Inadequate Input Option")
