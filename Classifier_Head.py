@@ -1,3 +1,4 @@
+
 from tensorflow import keras
 import tensorflow as tf
 import numpy as np
@@ -38,3 +39,30 @@ def Final_Embeddings(shared_model,x_task_model,ct_task_model,shared_x_ray_train_
 	ct_scan_train_embed = np.concatenate((task_ct_scan_train_input,shared_ct_scan_train_input),axis=1)
 	ct_scan_test_embed = np.concatenate((task_ct_scan_test_input,shared_ct_scan_test_input),axis=1)
 	return x_ray_train_embed,x_ray_test_embed,ct_scan_train_embed,ct_scan_test_embed
+
+shared = keras.models.load_model(input("Enter the File Path for Shared Features Module --> "))
+task_x = keras.models.load_model(input("Enter the File Path for Chest X-Ray Task Specific Features Module --> "))
+task_ct = keras.models.load_model(input("Enter the File Path for CT-Scan Task Specific Features Module --> "))
+
+shared_x_ray_train_input = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings (For Shared Features Module) -->"))
+shared_x_ray_test_input = np.load(input("Enter the File Path for Chest X-Ray Test Embeddings (For Shared Features Module) -->"))
+shared_ct_scan_train_input = np.load(input("Enter the File Path for CT-Scan Train Embeddings (For Shared Features Module) -->"))
+shared_ct_scan_test_input = np.load(input("Enter the File Path for CT-Scan Test Embeddings (For Shared Features Module) -->"))
+
+task_x_ray_train_input = np.load(input("Enter the File Path for Chest X-Ray Train Embeddings (For Task Specific Features Module) -->"))
+task_x_ray_test_input = np.load(input("Enter the File Path for Chest X-Ray Test Embeddings (For Task Specific Features Module) -->"))
+task_ct_scan_train_input = np.load(input("Enter the File Path for CT-Scan Train Embeddings (For Task Specific Features Module) -->"))
+task_ct_scan_test_input = np.load(input("Enter the File Path for CT-Scan Test Embeddings (For Task Specific Features Module) -->"))
+
+x_train_labels = np.load(input("Enter the File Path for Chest X-Ray Train Data Labels --> "))
+x_test_labels = np.load(input("Enter the File Path for Chest X-Ray Test Data Labels --> "))
+ct_train_labels = np.load(input("Enter the File Path for CT-Scans Train Data Labels --> "))
+ct_test_labels = np.load(input("Enter the File Path for CT-Scans Test Data Labels --> "))
+
+x_ray_train_embed,x_ray_test_embed,ct_scan_train_embed,ct_scan_test_embed = Final_Embeddings(shared,task_x,task_ct,shared_x_ray_train_input,shared_x_ray_test_input,shared_ct_train_input,shared_ct_test_input,task_x_ray_train_input,task_x_ray_test_input,task_ct_scan_train_input,task_ct_scan_test_input)
+
+classifier_x_dir = input("Enter the File Path for saving the Chest X-Ray Classifier Head --> ")
+classifier_ct_dir = input("Enter the File Path for saving the CT-Scans Classifier Head --> ")
+
+Classifier_Head(classifier_x_dir,x_ray_train_embed,x_ray_test_embed,x_train_labels,x_test_labels)
+Classifier_Head(classifier_ct_dir,ct_scan_train_embed,ct_scan_test_embed,ct_train_labels,ct_test_labels)
