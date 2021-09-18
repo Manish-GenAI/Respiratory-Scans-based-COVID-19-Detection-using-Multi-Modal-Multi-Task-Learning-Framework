@@ -23,6 +23,7 @@ These were categorized according to their application purposes as following :-
   - pandas
 - System and Directory Management based Library
   - os
+  - tqdm
 
 ## Adviced Structure of Dataset Folder
 
