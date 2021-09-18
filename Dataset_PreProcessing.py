@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from tqdm import tqdm
 from PIL import Image, ImageFilter
+import matplotlib.pyplot as plt
 
 def Sample_Processing(x_ray_directory,ct_scan_directory):
 
@@ -265,3 +266,18 @@ def Dataset_Processing(x_base_directory,ct_base_directory):
 		final_ct = cv2.morphologyEx(final_ct, cv2.MORPH_OPEN, ker)
 		final_ct = cv2.resize(final_ct,(224,224))
 		cv2.imwrite(os.path.join(ct_base_directory,j),final_ct)
+
+print("Which Function to run ? ")
+print("1. Sample_Processing")
+print("2. Dataset_Processing")
+option = input()
+if (option == "1"):
+	x_ray = input("Enter the Whole File Path for Chest X-Ray Image --> ")
+	ct_scan = input("Enter the Whole File Path for CT-Scan Image --> ")
+	Sample_Processing(x_ray,ct_scan)
+elif (option == "2"):
+	x_ray = input("Enter the Root Directory for Chest X-Ray Images --> ")
+	ct_scan = input("Enter the Root Directory for CT-Scan Images --> ")
+	Dataset_Processing(x_ray,ct_scan)
+else:
+	print("Inadequate Input Option")
