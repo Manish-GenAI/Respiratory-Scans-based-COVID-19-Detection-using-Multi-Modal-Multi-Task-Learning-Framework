@@ -216,5 +216,3 @@ Pre-Trained Model Weights ---> https://drive.google.com/drive/folders/15-Mtxa5xt
 4. https://docs.scipy.org/doc/scipy/reference/stats.html
 5. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
 6. https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce
-
-## Citation
