@@ -30,27 +30,63 @@ These were categorized according to their application purposes as following :-
 For the ease of Training and Implementation flow, following structure would be adviced :-
 
 ```
-|--Dataset Folder
+|--Dataset Folder/
 
-   |--X_Ray_Train
+   |--X_Ray_Train/
 
-      |--COVID
-      |--Non_COVID
+      |--COVID/
+         
+         |--x_c1_image_train
+         |--x_c2_image_train
+         ...
+         
+      |--Non_COVID/
 
-   |--X_Ray_Test
+         |--x_nc1_image_train
+         |--x_nc2_image_train
+         ...
+         
+   |--X_Ray_Test/
 
-      |--COVID
-      |--Non_COVID
+      |--COVID/
+      
+         |--x_c1_image_test
+         |--x_c2_image_test
+         ...
+         
+      |--Non_COVID/
+      
+         |--x_nc1_image_test
+         |--x_nc2_image_test
+         ...
+         
+   |--CT_Scan_Train/
 
-   |--CT_Scan_Train
+      |--COVID/
+      
+         |--ct_c1_image_train
+         |--ct_c2_image_train
+         ...
+         
+      |--Non_COVID/
+      
+         |--ct_nc1_image_train
+         |--ct_nc2_image_train
+         ...
 
-      |--COVID
-      |--Non_COVID
+   |--CT_Scan_Test/
 
-   |--CT_Scan_Test
-
-      |--COVID
-      |--Non_COVID
+      |--COVID/
+      
+         |--ct_c1_image_test
+         |--ct_c2_image_test
+         ...
+         
+      |--Non_COVID/
+      
+         |--ct_nc1_image_test
+         |--ct_nc2_image_test
+         ...
 
 ```
 
