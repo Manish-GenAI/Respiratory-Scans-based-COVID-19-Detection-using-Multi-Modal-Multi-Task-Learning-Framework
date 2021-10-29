@@ -161,20 +161,7 @@ For the ease of Training and Implementation flow, following structure would be a
       - shared_x_ray_train_input,shared_x_ray_test_input,shared_ct_train_input,shared_ct_test_input --> Numpy arrays of Embeddings Input for Shared Features Extractor Modules.
       - task_x_ray_train_input,task_x_ray_test_input,task_ct_train_input,task_ct_test_input --> Numpy arrays of Embeddings Input for Task-Specific Features Extractor Modules.
 
-7. For Evaluating and Analysing the Generalization of Implementation, Run Evaluation_and_Significance_Test.py, which consist of 2 functions, naming Evaluation_metrics and Significance_Test, with the following details :-
-   
-   - Evaluation_metrics(prob_list,labels,threshold=0.5) :
-      - prob_list --> List of Output Probabilities after implementing the whole pipeline.
-      - labels --> Output Classes vector.
-      - threshold --> Confidence Probability (generally 0.5 for ideal sigmoid scenario).
-   
-   - Significance_Test(Save_Directory,task_train_embed,shared_train_embed,task_test_embed,shared_test_embed,train_labels,test_labels) :
-      - Save_Directory --> A String of Sample Run Iterations, with the name and extension (.h5 or .hdf5) on it.
-      - task_train_embed,shared_train_embed --> Numpy arrays of Task Specific and Shared Features Embeddings from Training Data.
-      - task_test_embed,shared_test_embed --> Numpy arrays of Task Specific and Shared Features Embeddings from Testing Data.
-      - train_labels,test_labels --> Numpy arrays of Training and Testing Labels (Whether COVID or Non-COVID)
-
-8. Run User_Customized_Pipeline.py, which consist of some functions, with the following details :-
+7. Run User_Customized_Pipeline.py, which consist of some functions, with the following details :-
 
    - Pre_Process(x,ct) :
       - x --> Greyscaled X-Ray Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
@@ -195,6 +182,19 @@ For the ease of Training and Implementation flow, following structure would be a
       - Save_Folder_Directory --> A String of the Container Folder Path where each component of the Pipeline was saved.
       - X_Ray_Grey_Image --> Greyscaled X-Ray Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
       - CT_Scan_Grey_Image --> Greyscaled CT-Scan Image Matrix, loaded using cv2.imread(<---Image Path---> , 0)
+
+8. For Evaluating and Analysing the Generalization of Implementation, consider using Evaluation_and_Significance_Test.py, which consist of 2 functions, naming Evaluation_metrics and Significance_Test, with the following details :-
+   
+   - Evaluation_metrics(prob_list,labels,threshold=0.5) :
+      - prob_list --> List of Output Probabilities after implementing the whole pipeline.
+      - labels --> Output Classes vector.
+      - threshold --> Confidence Probability (generally 0.5 for ideal sigmoid scenario).
+   
+   - Significance_Test(Save_Directory,task_train_embed,shared_train_embed,task_test_embed,shared_test_embed,train_labels,test_labels) :
+      - Save_Directory --> A String of Sample Run Iterations, with the name and extension (.h5 or .hdf5) on it.
+      - task_train_embed,shared_train_embed --> Numpy arrays of Task Specific and Shared Features Embeddings from Training Data.
+      - task_test_embed,shared_test_embed --> Numpy arrays of Task Specific and Shared Features Embeddings from Testing Data.
+      - train_labels,test_labels --> Numpy arrays of Training and Testing Labels (Whether COVID or Non-COVID)
 
 ## Pre-Processed Train-Test Dataset
 
