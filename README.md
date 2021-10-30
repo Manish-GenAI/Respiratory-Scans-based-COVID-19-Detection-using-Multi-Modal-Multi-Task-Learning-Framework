@@ -4,6 +4,11 @@
 
 ![MTLArch](https://user-images.githubusercontent.com/54277039/132307382-53335fdc-06ce-4c9b-b9d6-fa6a266cf219.png)
 
+In this work, we propose the multi-modal multi-task learning framework for the classification of patients as COVID-19 and Non-COVID-19. This is a three-stage architecture, as following:- 
+1. We first used the various combinations of popular transfer learning methods for task-specific embedding generation using chest screenings
+2. We further created a shared embedding having common information from X-Rays and CT-Scans. 
+3. We have clubbed the shared embedding with the task-specific embedding to have the final classification.
+
 ## Required Python Dependencies
 
 These were categorized according to their application purposes as following :-
